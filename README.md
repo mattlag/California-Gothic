@@ -25,13 +25,13 @@ OFL-FAQ.txt in this project.
 ## Roadmap
 Source SVG files, and a combined OTF file, will generally be constructed thusly:
 
-| Version | What's New |
-| --- | --- |
-| 0.1 | Basic Latin Capital Letters |
-| 0.2 | Basic Latin Lowercase Letters |
-| 0.3 | Basic Latin Symbols |
-| 1.0 | Basic Latin spacing and OTF file |
-
+| | Version | What's New |
+| --- | --- | --- |
+| :soon: | 0.1 | Basic Latin Capital Letters |
+| :white_large_square: | 0.2 | Basic Latin Lowercase Letters |
+| :white_large_square: | 0.3 | Basic Latin Symbols |
+| :white_large_square: | 1.0 | Basic Latin spacing and OTF file |
+| :white_large_square: | 1+ | Extended Latin | 
 
 ## Hey, it's me!
 | ![Matthew LaGrandeur's picture](https://1.gravatar.com/avatar/f6f7b963adc54db7e713d7bd5f4903ec?s=70) |
