@@ -4,9 +4,9 @@ In 1953, California standardized the state flag in law.  Section 420 of the Gove
 ```
 The general design and the details of the Bear Flag, excluding colors, 
 shall correspond substantially with the following representation
+![California Flag](https://raw.githubusercontent.com/mattlag/California-Gothic/master/California_Flag.png)
 ```
-
-...and includes a low res sketch of the flag itself.  
+...and includes this low res sketch of the flag itself.  
 
 ### But hark!
 No mention of a specific typeface to use for the iconic CALIFORNIA REPUBLIC text along the bottom of the flag.  Not even a family... or even serif / sans-serif.  Just "correspond substantially". Okay.
