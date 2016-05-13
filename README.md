@@ -4,8 +4,8 @@ In 1953, California standardized the state flag in law.  Section 420 of the Gove
 ```
 The general design and the details of the Bear Flag, excluding colors, 
 shall correspond substantially with the following representation
-![California Flag](https://raw.githubusercontent.com/mattlag/California-Gothic/master/California_Flag.png)
 ```
+![California Flag](https://raw.githubusercontent.com/mattlag/California-Gothic/master/California_Flag.png)
 ...and includes this low res sketch of the flag itself.  
 
 ### But hark!
