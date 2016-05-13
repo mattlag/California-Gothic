@@ -2,7 +2,8 @@
 In 1953, California standardized the state flag in law.  Section 420 of the Government Code says:
 
 ```
-The general design and the details of the Bear Flag, excluding colors, shall correspond substantially with the following representation:
+The general design and the details of the Bear Flag, excluding colors, 
+shall correspond substantially with the following representation
 ```
 
 ...and includes a low res sketch of the flag itself.  
