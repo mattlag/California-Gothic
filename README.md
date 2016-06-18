@@ -29,7 +29,7 @@ Source SVG files, and a combined OTF file, will generally be constructed thusly:
 | --- | --- | --- |
 | :white_check_mark: | 0.1 | Letters in CALIFORNIA, REPUBLIC, and GOTHIC (plus a star and bear for good measure) |
 | :white_check_mark: | 0.2 | Basic Latin Capital Letters |
-| :soon: | 0.3 | Basic Latin Lowercase Letters |
+| :soon: | 0.3 | Basic Latin Lowercase Letters and Numbers |
 | :white_large_square: | 0.4 | Basic Latin Symbols |
 | :white_large_square: | 1.0 | Basic Latin spacing and OTF file |
 | :white_large_square: | 1+ | Extended Latin | 
