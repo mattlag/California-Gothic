@@ -17,6 +17,7 @@ of the letterforms from the original 1953 law.
 
 # Download
 v1.0 is out, and can be downloaded from the Fonts folder in OTF, TTF, SVG, EOT, WOFF, and WOFF2 formats.
+Or you can [Downlaod a .zip of the font files](https://github.com/mattlag/California-Gothic/blob/master/Fonts/v1.0/California_Gothic.zip?raw=true) here.
 
 
 ## Open Font 
