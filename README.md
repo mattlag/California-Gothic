@@ -15,6 +15,10 @@ Long story short, this project aims to reverse-engineer a typeface based on high
 of the letterforms from the original 1953 law.
 
 
+# Download
+v1.0 is out, and can be downloaded from the Fonts folder in OTF, TTF, SVG, EOT, WOFF, and WOFF2 formats.
+
+
 ## Open Font 
 California Gothic is released under the SIL Open Font License, which you can read about in OFL.txt and 
 OFL-FAQ.txt in this project.
@@ -29,9 +33,7 @@ Source SVG files, and a combined OTF file, will generally be constructed thusly:
 | --- | --- | --- |
 | :white_check_mark: | 0.1 | Letters in CALIFORNIA, REPUBLIC, and GOTHIC (plus a star and bear for good measure) |
 | :white_check_mark: | 0.2 | Basic Latin Capital Letters |
-| :soon: | 0.3 | Basic Latin Lowercase Letters and Numbers |
-| :white_large_square: | 0.4 | Basic Latin Symbols |
-| :white_large_square: | 1.0 | Basic Latin spacing and OTF file |
+| :white_check_mark: | 1.0 | Full Basic Latin (all caps) and font files |
 | :white_large_square: | 1+ | Extended Latin | 
 
 ## Hey, it's me!
