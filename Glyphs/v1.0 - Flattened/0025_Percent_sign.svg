@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#086AFF;}
+</style>
+<g id="Guides">
+</g>
+<g id="Shapes">
+	<g>
+		<polygon class="st0" points="385.4,10 60,800 181.1,800 500,10 		"/>
+		<path class="st0" d="M260,188.9V160c0-71.8-58.2-130-130-130S0,88.2,0,160v28.9c0,71.8,58.2,130,130,130S260,260.7,260,188.9z
+			 M90,180.4v-12c0-29.8,17.9-54,40-54s40,24.2,40,54v12c0,29.8-17.9,54-40,54S90,210.3,90,180.4z"/>
+		<path class="st0" d="M440,491.1c-71.8,0-130,58.2-130,130V650c0,71.8,58.2,130,130,130s130-58.2,130-130v-28.9
+			C570,549.3,511.8,491.1,440,491.1z M480,641.6c0,29.8-17.9,54-40,54s-40-24.2-40-54v-12c0-29.8,17.9-54,40-54s40,24.2,40,54V641.6
+			z"/>
+	</g>
+</g>
+</svg>
