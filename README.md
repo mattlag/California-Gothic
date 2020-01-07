@@ -25,8 +25,11 @@ v2.0 is out, it is a complete re-drawing of all glyphs, and includes 415 charact
  - Combining Diacritical Marks (U+0300 - U+036F)
  - General Punctuation (U+2000 - U+206F)
 
-![OFL Logo](https://scripts.sil.org/cms/sites/nrsi/media/OFL_logo_circ_color.png) | California Gothic is released under the SIL Open Font License, which you can read about in OFL.txt and 
+California Gothic is released under the SIL Open Font License, which you can read about in OFL.txt and 
 OFL-FAQ.txt in this project.
+
+![OFL Logo](https://scripts.sil.org/cms/sites/nrsi/media/OFL_logo_circ_color.png)
+
 
 
 # Build Process
@@ -48,17 +51,17 @@ typeface was built:
     - Kern everything
  4. Export a SVG Font (to retain Kern information) and open that with Font Forge
     - Edit Metadata
-    - Export fonts (OTF, TTF, SVG, EOT, WOFF, and WOFF2 formats)
+    - Export fonts (OTF, TTF, SVG, WOFF, and UFO formats)
 
 All of the files for each of these stages are available in the 
 [Working_Files](https://raw.githubusercontent.com/mattlag/California-Gothic/master/Working_Files) folder.
 
 
 # Hey, it's me!
-HMU with any questions or comments!
+My name is Matt LaGrandeur, and I'd be happy to answer any questions you may have.
 
-| ![Matthew LaGrandeur's picture](https://1.gravatar.com/avatar/f6f7b963adc54db7e713d7bd5f4903ec?s=70) |
+Website: [mattlag.com](http://mattlag.com/) 
 
-| [Matthew LaGrandeur](http://mattlag.com/)
+Email: matt[at]mattlag[dot]com
 
-matt[at]mattlag[dot]com |
+![Matthew LaGrandeur's picture](https://1.gravatar.com/avatar/f6f7b963adc54db7e713d7bd5f4903ec?s=70)

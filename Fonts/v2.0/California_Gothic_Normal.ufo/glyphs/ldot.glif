@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot" format="1">
+  <advance width="880"/>
+  <unicode hex="0140"/>
+  <outline>
+    <contour>
+      <point x="350" y="255" type="curve"/>
+      <point x="350" y="255"/>
+      <point x="800" y="255"/>
+      <point x="800" y="255" type="curve"/>
+      <point x="800" y="255"/>
+      <point x="800" y="0"/>
+      <point x="800" y="0" type="curve"/>
+      <point x="800" y="0"/>
+      <point x="100" y="0"/>
+      <point x="100" y="0" type="curve"/>
+      <point x="100" y="0"/>
+      <point x="100" y="1400"/>
+      <point x="100" y="1400" type="curve"/>
+      <point x="100" y="1400"/>
+      <point x="350" y="1400"/>
+      <point x="350" y="1400" type="curve"/>
+      <point x="350" y="1400"/>
+      <point x="350" y="255"/>
+    </contour>
+    <contour>
+      <point x="450" y="815" type="curve"/>
+      <point x="450" y="815"/>
+      <point x="680" y="815"/>
+      <point x="680" y="815" type="curve"/>
+      <point x="680" y="815"/>
+      <point x="680" y="585"/>
+      <point x="680" y="585" type="curve"/>
+      <point x="680" y="585"/>
+      <point x="450" y="585"/>
+      <point x="450" y="585" type="curve"/>
+      <point x="450" y="585"/>
+      <point x="450" y="815"/>
+    </contour>
+  </outline>
+</glyph>

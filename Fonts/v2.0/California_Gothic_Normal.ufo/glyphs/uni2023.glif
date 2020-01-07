@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2023" format="1">
+  <advance width="480"/>
+  <unicode hex="2023"/>
+  <outline>
+    <contour>
+      <point x="100" y="550" type="curve"/>
+      <point x="100" y="550"/>
+      <point x="100" y="830"/>
+      <point x="100" y="830" type="curve"/>
+      <point x="100" y="830"/>
+      <point x="380" y="730"/>
+      <point x="380" y="730" type="curve"/>
+      <point x="380" y="730"/>
+      <point x="380" y="650"/>
+      <point x="380" y="650" type="curve"/>
+      <point x="380" y="650"/>
+      <point x="100" y="550"/>
+    </contour>
+  </outline>
+</glyph>

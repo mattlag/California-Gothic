@@ -3,24 +3,28 @@ FontName: California_Gothic_Normal
 FullName: California Gothic Normal
 FamilyName: California Gothic
 Weight: Normal
-Copyright: 
-Version: 
+Copyright: (c) 2020 Matthew LaGrandeur
+UComments: "A typeface inspired by the Californian flag."
+Version: 2.0
 ItalicAngle: 0
-UnderlinePosition: 0
-UnderlineWidth: 0
+UnderlinePosition: -100
+UnderlineWidth: 100
 Ascent: 1638
 Descent: 410
 InvalidEm: 0
+woffMajor: 2
+woffMinor: 0
 LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 XUID: [1021 898 610667815 14573]
+FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1578430951
-ModificationTime: 1578431432
-PfmFamily: 17
+ModificationTime: 1578432424
+PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
 LineGap: 184
@@ -39,26 +43,30 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
+OS2Vendor: '    '
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
+LangName: 1033
 Encoding: Original
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 14 6
+WinInfo: 0 8 2
 BeginPrivate: 1
 BlueValues 15 [0 0 1400 1400]
 EndPrivate
+TeXData: 1 0 0 296960 148480 98986 716800 -1048576 98986 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 BeginChars: 411 411
 
 StartChar: .notdef
 Encoding: 0 0 0
 Width: 1064
-Flags: HW
+Flags: W
+HStem: 0 150<250 814> 1250 150<250 814>
+VStem: 100 150<150 1250> 814 150<150 1250>
 LayerCount: 2
 Fore
 SplineSet
@@ -2729,7 +2737,9 @@ EndChar
 StartChar: section
 Encoding: 102 167 102
 Width: 930
-Flags: HW
+Flags: W
+HStem: 0 210<312.815 607.278> 1189 210<322.722 617.185>
+VStem: 100 210<212.815 380 1046 1182.82> 610 220<212.375 353 1019 1188.5>
 LayerCount: 2
 Fore
 SplineSet
@@ -3974,11 +3984,13 @@ EndChar
 StartChar: Ntilde
 Encoding: 142 209 142
 Width: 975
-Flags: HW
+Flags: W
+HStem: 0 21G<100 330 670 880> 1380 20G<100 310 640 880> 1491 175<539.202 730.016> 1614 176<238.845 431.68>
+VStem: 100 230<0 754> 640 240<610 1400>
 LayerCount: 2
 Fore
 SplineSet
-640 610 m 1
+640 610 m 1xcc
  640 610 640 1400 640 1400 c 1
  640 1400 880 1400 880 1400 c 1
  880 1400 880 0 880 0 c 1
@@ -3988,17 +4000,17 @@ SplineSet
  330 0 100 0 100 0 c 1
  100 0 100 1400 100 1400 c 1
  100 1400 310 1400 310 1400 c 1
- 310 1400 640 610 640 610 c 1
+ 310 1400 640 610 640 610 c 1xcc
 920 1696 m 1
  880 1576 768 1491 635 1491 c 0
- 634 1491 633 1491 632 1491 c 0
+ 634 1491 633 1491 632 1491 c 0xec
  554 1491 478 1526 423 1578 c 0
  396 1602 364 1614 333 1614 c 0
  282 1614 234 1584 216 1530 c 1
  216 1530 50 1585 50 1585 c 1
- 90 1704 202 1790 335 1790 c 0
+ 90 1704 202 1790 335 1790 c 0xdc
  414 1790 491 1758 547 1702 c 0
- 570 1679 602 1666 635 1666 c 0
+ 570 1679 602 1666 635 1666 c 0xec
  689 1666 737 1700 754 1751 c 1
  754 1751 920 1696 920 1696 c 1
 EndSplineSet
@@ -4960,11 +4972,13 @@ EndChar
 StartChar: ntilde
 Encoding: 174 241 174
 Width: 975
-Flags: HW
+Flags: W
+HStem: 0 21G<100 330 670 880> 1380 20G<100 310 640 880> 1491 175<539.202 730.016> 1614 176<238.845 431.68>
+VStem: 100 230<0 754> 640 240<610 1400>
 LayerCount: 2
 Fore
 SplineSet
-640 610 m 1
+640 610 m 1xcc
  640 610 640 1400 640 1400 c 1
  640 1400 880 1400 880 1400 c 1
  880 1400 880 0 880 0 c 1
@@ -4974,17 +4988,17 @@ SplineSet
  330 0 100 0 100 0 c 1
  100 0 100 1400 100 1400 c 1
  100 1400 310 1400 310 1400 c 1
- 310 1400 640 610 640 610 c 1
+ 310 1400 640 610 640 610 c 1xcc
 920 1696 m 1
  880 1576 768 1491 635 1491 c 0
- 634 1491 633 1491 632 1491 c 0
+ 634 1491 633 1491 632 1491 c 0xec
  554 1491 478 1526 423 1578 c 0
  396 1602 364 1614 333 1614 c 0
  282 1614 234 1584 216 1530 c 1
  216 1530 50 1585 50 1585 c 1
- 90 1704 202 1790 335 1790 c 0
+ 90 1704 202 1790 335 1790 c 0xdc
  414 1790 491 1758 547 1702 c 0
- 570 1679 602 1666 635 1666 c 0
+ 570 1679 602 1666 635 1666 c 0xec
  689 1666 737 1700 754 1751 c 1
  754 1751 920 1696 920 1696 c 1
 EndSplineSet
@@ -9951,22 +9965,23 @@ EndChar
 StartChar: asciitilde
 Encoding: 332 126 332
 Width: 1070
-Flags: HW
+Flags: W
+HStem: 551 175<589.202 780.016> 674 176<288.845 481.68>
 LayerCount: 2
 Fore
 SplineSet
-970 756 m 1
+970 756 m 1x80
  930 636 818 551 685 551 c 0
- 684 551 683 551 682 551 c 0
+ 684 551 683 551 682 551 c 0x80
  604 551 528 586 473 638 c 0
  446 662 414 674 383 674 c 0
  332 674 284 644 266 590 c 1
  266 590 100 645 100 645 c 1
- 140 764 252 850 385 850 c 0
+ 140 764 252 850 385 850 c 0x40
  464 850 541 818 597 762 c 0
  620 739 652 726 685 726 c 0
  739 726 787 760 804 811 c 1
- 804 811 970 756 970 756 c 1
+ 804 811 970 756 970 756 c 1x80
 EndSplineSet
 Validated: 1
 EndChar
@@ -11660,22 +11675,23 @@ EndChar
 StartChar: uni2053
 Encoding: 398 8275 398
 Width: 1070
-Flags: HW
+Flags: W
+HStem: 551 175<589.202 780.016> 674 176<288.845 481.68>
 LayerCount: 2
 Fore
 SplineSet
-970 756 m 1
+970 756 m 1x80
  930 636 818 551 685 551 c 0
- 684 551 683 551 682 551 c 0
+ 684 551 683 551 682 551 c 0x80
  604 551 528 586 473 638 c 0
  446 662 414 674 383 674 c 0
  332 674 284 644 266 590 c 1
  266 590 100 645 100 645 c 1
- 140 764 252 850 385 850 c 0
+ 140 764 252 850 385 850 c 0x40
  464 850 541 818 597 762 c 0
  620 739 652 726 685 726 c 0
  739 726 787 760 804 811 c 1
- 804 811 970 756 970 756 c 1
+ 804 811 970 756 970 756 c 1x80
 EndSplineSet
 Validated: 1
 EndChar
@@ -11707,7 +11723,9 @@ EndChar
 StartChar: uni2055
 Encoding: 400 8277 400
 Width: 1120
-Flags: HW
+Flags: W
+HStem: 618 164<111.666 180 180.026 418.752 701.248 939.974 940 1008.33>
+VStem: 478 164<251.665 320 320.026 558.752 841.248 1079.97 1080 1148.33>
 LayerCount: 2
 Fore
 SplineSet

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2016" format="1">
+  <advance width="530"/>
+  <unicode hex="2016"/>
+  <outline>
+    <contour>
+      <point x="100" y="1760" type="curve"/>
+      <point x="100" y="1760"/>
+      <point x="230" y="1760"/>
+      <point x="230" y="1760" type="curve"/>
+      <point x="230" y="1760"/>
+      <point x="230" y="0"/>
+      <point x="230" y="0" type="curve"/>
+      <point x="230" y="0"/>
+      <point x="100" y="0"/>
+      <point x="100" y="0" type="curve"/>
+      <point x="100" y="0"/>
+      <point x="100" y="1760"/>
+    </contour>
+    <contour>
+      <point x="300" y="1760" type="curve"/>
+      <point x="300" y="1760"/>
+      <point x="430" y="1760"/>
+      <point x="430" y="1760" type="curve"/>
+      <point x="430" y="1760"/>
+      <point x="430" y="0"/>
+      <point x="430" y="0" type="curve"/>
+      <point x="430" y="0"/>
+      <point x="300" y="0"/>
+      <point x="300" y="0" type="curve"/>
+      <point x="300" y="0"/>
+      <point x="300" y="1760"/>
+    </contour>
+  </outline>
+</glyph>

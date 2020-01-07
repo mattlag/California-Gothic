@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis" format="1">
+  <advance width="590"/>
+  <unicode hex="00EF"/>
+  <outline>
+    <contour>
+      <point x="170" y="1400" type="curve"/>
+      <point x="170" y="1400"/>
+      <point x="420" y="1400"/>
+      <point x="420" y="1400" type="curve"/>
+      <point x="420" y="1400"/>
+      <point x="420" y="0"/>
+      <point x="420" y="0" type="curve"/>
+      <point x="420" y="0"/>
+      <point x="170" y="0"/>
+      <point x="170" y="0" type="curve"/>
+      <point x="170" y="0"/>
+      <point x="170" y="1400"/>
+    </contour>
+    <contour>
+      <point x="100" y="1700" type="curve"/>
+      <point x="100" y="1700"/>
+      <point x="250" y="1700"/>
+      <point x="250" y="1700" type="curve"/>
+      <point x="250" y="1700"/>
+      <point x="250" y="1550"/>
+      <point x="250" y="1550" type="curve"/>
+      <point x="250" y="1550"/>
+      <point x="100" y="1550"/>
+      <point x="100" y="1550" type="curve"/>
+      <point x="100" y="1550"/>
+      <point x="100" y="1700"/>
+    </contour>
+    <contour>
+      <point x="340" y="1700" type="curve"/>
+      <point x="340" y="1700"/>
+      <point x="490" y="1700"/>
+      <point x="490" y="1700" type="curve"/>
+      <point x="490" y="1700"/>
+      <point x="490" y="1550"/>
+      <point x="490" y="1550" type="curve"/>
+      <point x="490" y="1550"/>
+      <point x="340" y="1550"/>
+      <point x="340" y="1550" type="curve"/>
+      <point x="340" y="1550"/>
+      <point x="340" y="1700"/>
+    </contour>
+  </outline>
+</glyph>

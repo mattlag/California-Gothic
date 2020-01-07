@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2010" format="1">
+  <advance width="1000"/>
+  <unicode hex="2010"/>
+  <outline>
+    <contour>
+      <point x="100" y="810" type="curve"/>
+      <point x="100" y="810"/>
+      <point x="900" y="810"/>
+      <point x="900" y="810" type="curve"/>
+      <point x="900" y="810"/>
+      <point x="900" y="590"/>
+      <point x="900" y="590" type="curve"/>
+      <point x="900" y="590"/>
+      <point x="100" y="590"/>
+      <point x="100" y="590" type="curve"/>
+      <point x="100" y="590"/>
+      <point x="100" y="810"/>
+    </contour>
+  </outline>
+</glyph>

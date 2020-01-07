@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedbl" format="1">
+  <advance width="720"/>
+  <unicode hex="0022"/>
+  <outline>
+    <contour>
+      <point x="270" y="990" type="curve"/>
+      <point x="270" y="990"/>
+      <point x="160" y="990"/>
+      <point x="160" y="990" type="curve"/>
+      <point x="160" y="990"/>
+      <point x="100" y="1220"/>
+      <point x="100" y="1220" type="curve"/>
+      <point x="100" y="1220"/>
+      <point x="100" y="1450"/>
+      <point x="100" y="1450" type="curve"/>
+      <point x="100" y="1450"/>
+      <point x="330" y="1450"/>
+      <point x="330" y="1450" type="curve"/>
+      <point x="330" y="1450"/>
+      <point x="330" y="1220"/>
+      <point x="330" y="1220" type="curve"/>
+      <point x="330" y="1220"/>
+      <point x="270" y="990"/>
+    </contour>
+    <contour>
+      <point x="560" y="990" type="curve"/>
+      <point x="560" y="990"/>
+      <point x="450" y="990"/>
+      <point x="450" y="990" type="curve"/>
+      <point x="450" y="990"/>
+      <point x="390" y="1220"/>
+      <point x="390" y="1220" type="curve"/>
+      <point x="390" y="1220"/>
+      <point x="390" y="1450"/>
+      <point x="390" y="1450" type="curve"/>
+      <point x="390" y="1450"/>
+      <point x="620" y="1450"/>
+      <point x="620" y="1450" type="curve"/>
+      <point x="620" y="1450"/>
+      <point x="620" y="1220"/>
+      <point x="620" y="1220" type="curve"/>
+      <point x="620" y="1220"/>
+      <point x="560" y="990"/>
+    </contour>
+  </outline>
+</glyph>
