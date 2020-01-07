@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <title>Asset 232</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Basic_Latin" data-name="Basic Latin">
+      <g>
+        <polygon points="902.256 0 500.014 402.128 98 0 0 98 402.057 500.057 0 902 97.744 1000 499.929 597.929 902 1000 1000 902.256 597.872 500.014 1000 98 902.256 0" style="fill: #7f7f7f"/>
+        <rect x="400" y="20" width="200" height="200" style="fill: #7f7f7f"/>
+        <rect x="400" y="780" width="200" height="200" style="fill: #7f7f7f"/>
+        <rect x="780" y="400" width="200" height="200" style="fill: #7f7f7f"/>
+        <rect x="22" y="400" width="200" height="200" style="fill: #7f7f7f"/>
+      </g>
+    </g>
+  </g>
+</svg>

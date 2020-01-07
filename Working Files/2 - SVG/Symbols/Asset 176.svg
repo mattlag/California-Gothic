@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="770" height="1400" viewBox="0 0 770 1400">
+  <title>Asset 176</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Basic_Latin" data-name="Basic Latin">
+      <g>
+        <path d="M43,55V172c49.71436,0,77-27,77-27V600H223V0H130S94.85693,52.85693,43,55Z" style="fill: #7f7f7f"/>
+        <polygon points="770 0 620 0 0 1400 150 1400 770 0" style="fill: #7f7f7f"/>
+        <path d="M685,1400V1280h20v-90H685V800H565L385,1205v75H585v120ZM486.59082,1190,585,962.10547V1190Z" style="fill: #7f7f7f"/>
+      </g>
+    </g>
+  </g>
+</svg>
