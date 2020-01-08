@@ -54,13 +54,13 @@ typeface was built:
     - Export fonts (OTF, TTF, SVG, WOFF, and UFO formats)
 
 All of the files for each of these stages are available in the 
-[Working_Files](https://raw.githubusercontent.com/mattlag/California-Gothic/master/Working_Files) folder.
+[Working_Files](https://github.com/mattlag/California-Gothic/tree/master/Working_Files) folder.
 
 
 # Hey, it's me!
 My name is Matt LaGrandeur, and I'd be happy to answer any questions you may have.
 
-Website: [mattlag.com](http://mattlag.com/) 
+Website: [mattlag.com](http://www.mattlag.com/) 
 
 Email: matt[at]mattlag[dot]com
 
