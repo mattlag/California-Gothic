@@ -41,32 +41,32 @@
       <point x="349" y="470"/>
     </contour>
     <contour>
-      <point x="375" y="1700" type="curve"/>
-      <point x="375" y="1700"/>
-      <point x="525" y="1700"/>
-      <point x="525" y="1700" type="curve"/>
-      <point x="525" y="1700"/>
-      <point x="525" y="1550"/>
-      <point x="525" y="1550" type="curve"/>
-      <point x="525" y="1550"/>
-      <point x="375" y="1550"/>
-      <point x="375" y="1550" type="curve"/>
-      <point x="375" y="1550"/>
-      <point x="375" y="1700"/>
+      <point x="275" y="1700" type="curve"/>
+      <point x="275" y="1700"/>
+      <point x="425" y="1700"/>
+      <point x="425" y="1700" type="curve"/>
+      <point x="425" y="1700"/>
+      <point x="425" y="1550"/>
+      <point x="425" y="1550" type="curve"/>
+      <point x="425" y="1550"/>
+      <point x="275" y="1550"/>
+      <point x="275" y="1550" type="curve"/>
+      <point x="275" y="1550"/>
+      <point x="275" y="1700"/>
     </contour>
     <contour>
-      <point x="615" y="1700" type="curve"/>
-      <point x="615" y="1700"/>
-      <point x="765" y="1700"/>
-      <point x="765" y="1700" type="curve"/>
-      <point x="765" y="1700"/>
-      <point x="765" y="1550"/>
-      <point x="765" y="1550" type="curve"/>
-      <point x="765" y="1550"/>
-      <point x="615" y="1550"/>
-      <point x="615" y="1550" type="curve"/>
-      <point x="615" y="1550"/>
-      <point x="615" y="1700"/>
+      <point x="515" y="1700" type="curve"/>
+      <point x="515" y="1700"/>
+      <point x="665" y="1700"/>
+      <point x="665" y="1700" type="curve"/>
+      <point x="665" y="1700"/>
+      <point x="665" y="1550"/>
+      <point x="665" y="1550" type="curve"/>
+      <point x="665" y="1550"/>
+      <point x="515" y="1550"/>
+      <point x="515" y="1550" type="curve"/>
+      <point x="515" y="1550"/>
+      <point x="515" y="1700"/>
     </contour>
   </outline>
   <lib>
@@ -104,13 +104,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>375</integer>
+            <integer>275</integer>
             <key>width</key>
             <integer>150</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>615</integer>
+            <integer>515</integer>
             <key>width</key>
             <integer>150</integer>
           </dict>
