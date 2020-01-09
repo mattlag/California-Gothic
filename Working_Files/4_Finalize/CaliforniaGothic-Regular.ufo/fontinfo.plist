@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>familyName</key>
+    <string>California Gothic</string>
+    <key>styleName</key>
+    <string>Regular</string>
+    <key>styleMapFamilyName</key>
+    <string>California Gothic Regular</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>versionMajor</key>
+    <integer>2</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>copyright</key>
+    <string>Copyright 2020 Matthew LaGrandeur (https://github.com/mattlag)</string>
+    <key>unitsPerEm</key>
+    <integer>2048</integer>
+    <key>capHeight</key>
+    <integer>1400</integer>
+    <key>xHeight</key>
+    <integer>700</integer>
+    <key>ascender</key>
+    <integer>1638</integer>
+    <key>descender</key>
+    <integer>-410</integer>
+    <key>italicAngle</key>
+    <real>0</real>
+    <key>note</key>
+    <string>A typeface for California vexillographers
+https://www.mattlag.com/californiagothic/</string>
+    <key>openTypeHeadCreated</key>
+    <string>2020/01/08 19:22:41</string>
+    <key>openTypeHheaAscender</key>
+    <integer>1800</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-400</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDesigner</key>
+    <string>Matthew LaGrandeur</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>https://www.mattlag.com/type</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
+    <key>openTypeNameVersion</key>
+    <string>Version 2.000</string>
+    <key>openTypeOS2Panose</key>
+    <array>
+      <integer>2</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+    </array>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>LaG </string>
+    <key>openTypeOS2FamilyClass</key>
+    <array>
+      <integer>0</integer>
+      <integer>0</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>1800</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-400</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1800</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>400</integer>
+    <key>postscriptFontName</key>
+    <string>CaliforniaGothic-Regular</string>
+    <key>postscriptFullName</key>
+    <string>California Gothic Regular</string>
+    <key>postscriptWeightName</key>
+    <string>Regular</string>
+    <key>postscriptUnderlineThickness</key>
+    <integer>100</integer>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>1400</integer>
+      <integer>1400</integer>
+    </array>
+  </dict>
+</plist>

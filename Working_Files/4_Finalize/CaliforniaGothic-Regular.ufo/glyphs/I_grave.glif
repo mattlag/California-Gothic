@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Igrave" format="1">
+  <advance width="450"/>
+  <unicode hex="00CC"/>
+  <outline>
+    <contour>
+      <point x="100" y="1400" type="curve"/>
+      <point x="100" y="1400"/>
+      <point x="350" y="1400"/>
+      <point x="350" y="1400" type="curve"/>
+      <point x="350" y="1400"/>
+      <point x="350" y="0"/>
+      <point x="350" y="0" type="curve"/>
+      <point x="350" y="0"/>
+      <point x="100" y="0"/>
+      <point x="100" y="0" type="curve"/>
+      <point x="100" y="0"/>
+      <point x="100" y="1400"/>
+    </contour>
+    <contour>
+      <point x="190" y="1490" type="curve"/>
+      <point x="190" y="1490"/>
+      <point x="-10" y="1750"/>
+      <point x="-10" y="1750" type="curve"/>
+      <point x="-10" y="1750"/>
+      <point x="210" y="1750"/>
+      <point x="210" y="1750" type="curve"/>
+      <point x="210" y="1750"/>
+      <point x="350" y="1490"/>
+      <point x="350" y="1490" type="curve"/>
+      <point x="350" y="1490"/>
+      <point x="190" y="1490"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1380</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>100</integer>
+            <key>width</key>
+            <integer>250</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

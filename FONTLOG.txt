@@ -1,0 +1,41 @@
+FONTLOG for the California Gothic font
+
+This file provides detailed information on the California Gothic Font Software.
+This information should be distributed along with the California Gothic fonts
+and any derivative works.
+
+Basic Font Information
+
+California Gothic is a Unicode typeface that aims to create a full font 
+based on the characters on the California flag. It includes 433 characters 
+from the following ranges:
+
+Full character ranges
+ - Basic Latin (U+0020 - U+007E)
+ - Latin Supplement (U+00A0 - U+00FF)
+ - Latin Extended-A (U+0100 - U+017F)
+ - General Punctuation (U+2000 - U+206F)
+
+Partial character ranges
+ - Spacing Modifier Letters (U+02B0 - U+02FF)
+ - Combining Diacritical Marks (U+0300 - U+036F)
+ - Superscripts and Subscripts (U+2070 - U+209F)
+ - Currency Symbols (U+20A0 - U+20CF)
+
+ChangeLog
+
+19 January 2018 (Matt LaGrandeur) California Gothic version 1.0
+ - Initial Release
+
+10 January 2020 (Matt LaGrandeur) California Gothic version 2.0
+ - Full release that satisfies requirements to submit as a Google Font
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Matt LaGrandeur
+E: matt@mattlag.com
+W: https://www.mattlag.com
+D: Designer / Project Lead

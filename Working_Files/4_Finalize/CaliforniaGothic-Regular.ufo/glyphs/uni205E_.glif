@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni205E" format="1">
+  <advance width="430"/>
+  <unicode hex="205E"/>
+  <outline>
+    <contour>
+      <point x="100" y="230" type="curve"/>
+      <point x="100" y="230"/>
+      <point x="330" y="230"/>
+      <point x="330" y="230" type="curve"/>
+      <point x="330" y="230"/>
+      <point x="330" y="0"/>
+      <point x="330" y="0" type="curve"/>
+      <point x="330" y="0"/>
+      <point x="100" y="0"/>
+      <point x="100" y="0" type="curve"/>
+      <point x="100" y="0"/>
+      <point x="100" y="230"/>
+    </contour>
+    <contour>
+      <point x="100" y="1400" type="curve"/>
+      <point x="100" y="1400"/>
+      <point x="330" y="1400"/>
+      <point x="330" y="1400" type="curve"/>
+      <point x="330" y="1400"/>
+      <point x="330" y="1170"/>
+      <point x="330" y="1170" type="curve"/>
+      <point x="330" y="1170"/>
+      <point x="100" y="1170"/>
+      <point x="100" y="1170" type="curve"/>
+      <point x="100" y="1170"/>
+      <point x="100" y="1400"/>
+    </contour>
+    <contour>
+      <point x="100" y="620" type="curve"/>
+      <point x="100" y="620"/>
+      <point x="330" y="620"/>
+      <point x="330" y="620" type="curve"/>
+      <point x="330" y="620"/>
+      <point x="330" y="390"/>
+      <point x="330" y="390" type="curve"/>
+      <point x="330" y="390"/>
+      <point x="100" y="390"/>
+      <point x="100" y="390" type="curve"/>
+      <point x="100" y="390"/>
+      <point x="100" y="620"/>
+    </contour>
+    <contour>
+      <point x="100" y="1010" type="curve"/>
+      <point x="100" y="1010"/>
+      <point x="330" y="1010"/>
+      <point x="330" y="1010" type="curve"/>
+      <point x="330" y="1010"/>
+      <point x="330" y="780"/>
+      <point x="330" y="780" type="curve"/>
+      <point x="330" y="780"/>
+      <point x="100" y="780"/>
+      <point x="100" y="780" type="curve"/>
+      <point x="100" y="780"/>
+      <point x="100" y="1010"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>230</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>390</integer>
+            <key>width</key>
+            <integer>230</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>780</integer>
+            <key>width</key>
+            <integer>230</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1170</integer>
+            <key>width</key>
+            <integer>230</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>100</integer>
+            <key>width</key>
+            <integer>230</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
