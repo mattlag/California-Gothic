@@ -1,6 +1,6 @@
 OFL FAQ - Frequently Asked Questions about the SIL Open Font License (OFL)
 Version 1.1-update4 - Sept 2014
-(See http://scripts.sil.org/OFL for updates)
+(See http://scripts.sil.org/OFL for updates) 
 
 
 CONTENTS OF THIS FAQ

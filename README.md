@@ -1,7 +1,7 @@
 # California Gothic
 California Gothic is a typeface based on the glyphs found on the California flag.  The typeface is a bold condensed sans-serif, reminiscent of classic gothic or grotesque style typefaces. The font is all-caps, and covers all the Unicode Basic Latin ranges, general punctuation, and many other characters.
 
-More information can be found at [mattlag.com/californiagothic](https://www.mattlag.com/californiagothic)
+More information can be found at [mattlag.com/californiagothic](https://www.mattlag.com/californiagothic) 
 
 
 # Background
