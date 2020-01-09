@@ -72,7 +72,7 @@ typeface was built:
     - Validate with Font Bakery and fix any issues with gftools and TTX
 
 All of the files for each of these stages are available in the 
-[Working_Files](https://github.com/mattlag/California-Gothic/tree/master/Working_Files) folder.
+[working-files](https://github.com/mattlag/California-Gothic/tree/master/working-files) folder.
 
 
 # Hey, it's me!
