@@ -11,7 +11,7 @@ In 1953, California standardized the state flag in law.  Section 420 of the Gove
 The general design and the details of the Bear Flag, excluding colors, 
 shall correspond substantially with the following representation
 ```
-![California Flag](https://raw.githubusercontent.com/mattlag/California-Gothic/master/Images/California_Flag.png)
+![California Flag](https://raw.githubusercontent.com/mattlag/California-Gothic/master/img/California_Flag.png)
 ...and includes this low res sketch of the flag itself.  
 
 ### But hark!
@@ -19,7 +19,7 @@ No mention of a specific typeface to use for the iconic CALIFORNIA REPUBLIC text
 Not even a family... or even serif / sans-serif.  Just "correspond substantially". Okay.
 
 Long story short, this project aims to reverse-engineer a typeface based on high-resolution scans
-of the letter forms from [the original 1953 law](https://raw.githubusercontent.com/mattlag/California-Gothic/master/Images/State_Law_Page_2639.png).
+of the letter forms from [the original 1953 law](https://raw.githubusercontent.com/mattlag/California-Gothic/master/img/State_Law_Page_2639.png).
 
 
 # Info
