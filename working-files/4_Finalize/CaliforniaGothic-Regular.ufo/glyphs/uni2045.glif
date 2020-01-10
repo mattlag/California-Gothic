@@ -4,42 +4,42 @@
   <unicode hex="2045"/>
   <outline>
     <contour>
-      <point x="100" y="0" type="curve"/>
-      <point x="100" y="0"/>
-      <point x="100" y="1800"/>
-      <point x="100" y="1800" type="curve"/>
-      <point x="100" y="1800"/>
-      <point x="640" y="1800"/>
-      <point x="640" y="1800" type="curve"/>
-      <point x="640" y="1800"/>
+      <point x="100" y="-200" type="curve"/>
+      <point x="100" y="-200"/>
+      <point x="100" y="1600"/>
+      <point x="100" y="1600" type="curve"/>
+      <point x="100" y="1600"/>
       <point x="640" y="1600"/>
       <point x="640" y="1600" type="curve"/>
       <point x="640" y="1600"/>
-      <point x="330" y="1600"/>
-      <point x="330" y="1600" type="curve"/>
-      <point x="330" y="1600"/>
-      <point x="330" y="1000"/>
-      <point x="330" y="1000" type="curve"/>
-      <point x="330" y="1000"/>
-      <point x="640" y="1000"/>
-      <point x="640" y="1000" type="curve"/>
-      <point x="640" y="1000"/>
-      <point x="640" y="800"/>
-      <point x="640" y="800" type="curve"/>
-      <point x="640" y="800"/>
+      <point x="640" y="1400"/>
+      <point x="640" y="1400" type="curve"/>
+      <point x="640" y="1400"/>
+      <point x="330" y="1400"/>
+      <point x="330" y="1400" type="curve"/>
+      <point x="330" y="1400"/>
       <point x="330" y="800"/>
       <point x="330" y="800" type="curve"/>
       <point x="330" y="800"/>
-      <point x="330" y="200"/>
-      <point x="330" y="200" type="curve"/>
-      <point x="330" y="200"/>
-      <point x="640" y="200"/>
-      <point x="640" y="200" type="curve"/>
-      <point x="640" y="200"/>
+      <point x="640" y="800"/>
+      <point x="640" y="800" type="curve"/>
+      <point x="640" y="800"/>
+      <point x="640" y="600"/>
+      <point x="640" y="600" type="curve"/>
+      <point x="640" y="600"/>
+      <point x="330" y="600"/>
+      <point x="330" y="600" type="curve"/>
+      <point x="330" y="600"/>
+      <point x="330" y="0"/>
+      <point x="330" y="0" type="curve"/>
+      <point x="330" y="0"/>
       <point x="640" y="0"/>
       <point x="640" y="0" type="curve"/>
       <point x="640" y="0"/>
-      <point x="100" y="0"/>
+      <point x="640" y="-200"/>
+      <point x="640" y="-200" type="curve"/>
+      <point x="640" y="-200"/>
+      <point x="100" y="-200"/>
     </contour>
   </outline>
   <lib>
@@ -50,19 +50,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>0</integer>
+            <integer>-200</integer>
             <key>width</key>
             <integer>200</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>800</integer>
+            <integer>600</integer>
             <key>width</key>
             <integer>200</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1600</integer>
+            <integer>1400</integer>
             <key>width</key>
             <integer>200</integer>
           </dict>

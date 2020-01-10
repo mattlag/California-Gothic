@@ -29,6 +29,9 @@ ChangeLog
 
 10 January 2020 (Matt LaGrandeur) California Gothic version 2.0
  - Full release that satisfies requirements to submit as a Google Font
+ 
+10 January 2020 (Matt LaGrandeur) California Gothic version 2.1
+ - Fix validation errors
 
 Acknowledgements
 
