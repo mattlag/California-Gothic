@@ -4,147 +4,42 @@
   <unicode hex="203B"/>
   <outline>
     <contour>
-      <point x="500" y="1180" type="curve"/>
-      <point x="500" y="1180"/>
-      <point x="700" y="1180"/>
-      <point x="700" y="1180" type="curve"/>
-      <point x="700" y="1180"/>
-      <point x="700" y="980"/>
-      <point x="700" y="980" type="curve"/>
-      <point x="700" y="980"/>
-      <point x="500" y="980"/>
-      <point x="500" y="980" type="curve"/>
-      <point x="500" y="980"/>
-      <point x="500" y="1180"/>
+      <point x="1002" y="1200" type="line"/>
+      <point x="1100" y="1102" type="line"/>
+      <point x="698" y="700" type="line"/>
+      <point x="1100" y="298" type="line"/>
+      <point x="1002" y="200" type="line"/>
+      <point x="600" y="602" type="line"/>
+      <point x="198" y="200" type="line"/>
+      <point x="100" y="298" type="line"/>
+      <point x="502" y="700" type="line"/>
+      <point x="100" y="1102" type="line"/>
+      <point x="198" y="1200" type="line"/>
+      <point x="600" y="798" type="line"/>
     </contour>
     <contour>
-      <point x="500" y="420" type="curve"/>
-      <point x="500" y="420"/>
-      <point x="700" y="420"/>
-      <point x="700" y="420" type="curve"/>
-      <point x="700" y="420"/>
-      <point x="700" y="220"/>
-      <point x="700" y="220" type="curve"/>
-      <point x="700" y="220"/>
-      <point x="500" y="220"/>
-      <point x="500" y="220" type="curve"/>
-      <point x="500" y="220"/>
-      <point x="500" y="420"/>
+      <point x="500" y="1180" type="line"/>
+      <point x="700" y="1180" type="line"/>
+      <point x="700" y="980" type="line"/>
+      <point x="500" y="980" type="line"/>
     </contour>
     <contour>
-      <point x="880" y="800" type="curve"/>
-      <point x="880" y="800"/>
-      <point x="1080" y="800"/>
-      <point x="1080" y="800" type="curve"/>
-      <point x="1080" y="800"/>
-      <point x="1080" y="600"/>
-      <point x="1080" y="600" type="curve"/>
-      <point x="1080" y="600"/>
-      <point x="880" y="600"/>
-      <point x="880" y="600" type="curve"/>
-      <point x="880" y="600"/>
-      <point x="880" y="800"/>
+      <point x="880" y="800" type="line"/>
+      <point x="1080" y="800" type="line"/>
+      <point x="1080" y="600" type="line"/>
+      <point x="880" y="600" type="line"/>
     </contour>
     <contour>
-      <point x="122" y="800" type="curve"/>
-      <point x="122" y="800"/>
-      <point x="322" y="800"/>
-      <point x="322" y="800" type="curve"/>
-      <point x="322" y="800"/>
-      <point x="322" y="600"/>
-      <point x="322" y="600" type="curve"/>
-      <point x="322" y="600"/>
-      <point x="122" y="600"/>
-      <point x="122" y="600" type="curve"/>
-      <point x="122" y="600"/>
-      <point x="122" y="800"/>
+      <point x="122" y="800" type="line"/>
+      <point x="322" y="800" type="line"/>
+      <point x="322" y="600" type="line"/>
+      <point x="122" y="600" type="line"/>
     </contour>
     <contour>
-      <point x="1002" y="1200" type="curve"/>
-      <point x="1002" y="1200"/>
-      <point x="1100" y="1102"/>
-      <point x="1100" y="1102" type="curve"/>
-      <point x="1100" y="1102"/>
-      <point x="698" y="700"/>
-      <point x="698" y="700" type="curve"/>
-      <point x="698" y="700"/>
-      <point x="1100" y="298"/>
-      <point x="1100" y="298" type="curve"/>
-      <point x="1100" y="298"/>
-      <point x="1002" y="200"/>
-      <point x="1002" y="200" type="curve"/>
-      <point x="1002" y="200"/>
-      <point x="600" y="602"/>
-      <point x="600" y="602" type="curve"/>
-      <point x="600" y="602"/>
-      <point x="198" y="200"/>
-      <point x="198" y="200" type="curve"/>
-      <point x="198" y="200"/>
-      <point x="100" y="298"/>
-      <point x="100" y="298" type="curve"/>
-      <point x="100" y="298"/>
-      <point x="502" y="700"/>
-      <point x="502" y="700" type="curve"/>
-      <point x="502" y="700"/>
-      <point x="100" y="1102"/>
-      <point x="100" y="1102" type="curve"/>
-      <point x="100" y="1102"/>
-      <point x="198" y="1200"/>
-      <point x="198" y="1200" type="curve"/>
-      <point x="198" y="1200"/>
-      <point x="600" y="798"/>
-      <point x="600" y="798" type="curve"/>
-      <point x="600" y="798"/>
-      <point x="1002" y="1200"/>
+      <point x="500" y="420" type="line"/>
+      <point x="700" y="420" type="line"/>
+      <point x="700" y="220" type="line"/>
+      <point x="500" y="220" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>220</integer>
-            <key>width</key>
-            <integer>200</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>600</integer>
-            <key>width</key>
-            <integer>200</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>980</integer>
-            <key>width</key>
-            <integer>200</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>122</integer>
-            <key>width</key>
-            <integer>200</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>500</integer>
-            <key>width</key>
-            <integer>200</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>880</integer>
-            <key>width</key>
-            <integer>200</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

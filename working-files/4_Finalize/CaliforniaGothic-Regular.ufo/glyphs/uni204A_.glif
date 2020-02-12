@@ -4,55 +4,15 @@
   <unicode hex="204A"/>
   <outline>
     <contour>
-      <point x="100" y="1400" type="curve"/>
-      <point x="100" y="1400"/>
-      <point x="510" y="1400"/>
-      <point x="510" y="1400" type="curve"/>
-      <point x="510" y="1400"/>
-      <point x="961" y="1348"/>
-      <point x="961" y="1348" type="curve"/>
-      <point x="961" y="1348"/>
-      <point x="961" y="1252"/>
-      <point x="961" y="1252" type="curve"/>
-      <point x="961" y="1252"/>
-      <point x="425" y="0"/>
-      <point x="425" y="0" type="curve"/>
-      <point x="425" y="0"/>
-      <point x="225" y="0"/>
-      <point x="225" y="0" type="curve"/>
-      <point x="225" y="0"/>
-      <point x="752" y="1228"/>
-      <point x="752" y="1228" type="curve"/>
-      <point x="752" y="1228"/>
-      <point x="510" y="1200"/>
-      <point x="510" y="1200" type="curve"/>
-      <point x="510" y="1200"/>
-      <point x="100" y="1200"/>
-      <point x="100" y="1200" type="curve"/>
-      <point x="100" y="1200"/>
-      <point x="100" y="1400"/>
+      <point x="100" y="1400" type="line"/>
+      <point x="510" y="1400" type="line"/>
+      <point x="961" y="1348" type="line"/>
+      <point x="961" y="1252" type="line"/>
+      <point x="425" y="0" type="line"/>
+      <point x="225" y="0" type="line"/>
+      <point x="752" y="1228" type="line"/>
+      <point x="510" y="1200" type="line"/>
+      <point x="100" y="1200" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1200</integer>
-            <key>width</key>
-            <integer>200</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

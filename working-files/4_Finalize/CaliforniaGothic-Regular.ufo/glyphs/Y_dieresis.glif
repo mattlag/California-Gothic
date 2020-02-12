@@ -4,110 +4,27 @@
   <unicode hex="0178"/>
   <outline>
     <contour>
-      <point x="860" y="1400" type="curve"/>
-      <point x="860" y="1400"/>
-      <point x="585" y="506"/>
-      <point x="585" y="506" type="curve"/>
-      <point x="585" y="506"/>
-      <point x="585" y="0"/>
-      <point x="585" y="0" type="curve"/>
-      <point x="585" y="0"/>
-      <point x="335" y="0"/>
-      <point x="335" y="0" type="curve"/>
-      <point x="335" y="0"/>
-      <point x="335" y="506"/>
-      <point x="335" y="506" type="curve"/>
-      <point x="335" y="506"/>
-      <point x="60" y="1400"/>
-      <point x="60" y="1400" type="curve"/>
-      <point x="60" y="1400"/>
-      <point x="310" y="1400"/>
-      <point x="310" y="1400" type="curve"/>
-      <point x="310" y="1400"/>
-      <point x="460" y="810"/>
-      <point x="460" y="810" type="curve"/>
-      <point x="460" y="810"/>
-      <point x="600" y="1400"/>
-      <point x="600" y="1400" type="curve"/>
-      <point x="600" y="1400"/>
-      <point x="860" y="1400"/>
+      <point x="305" y="1700" type="line"/>
+      <point x="455" y="1700" type="line"/>
+      <point x="455" y="1550" type="line"/>
+      <point x="305" y="1550" type="line"/>
     </contour>
     <contour>
-      <point x="305" y="1700" type="curve"/>
-      <point x="305" y="1700"/>
-      <point x="455" y="1700"/>
-      <point x="455" y="1700" type="curve"/>
-      <point x="455" y="1700"/>
-      <point x="455" y="1550"/>
-      <point x="455" y="1550" type="curve"/>
-      <point x="455" y="1550"/>
-      <point x="305" y="1550"/>
-      <point x="305" y="1550" type="curve"/>
-      <point x="305" y="1550"/>
-      <point x="305" y="1700"/>
+      <point x="545" y="1700" type="line"/>
+      <point x="695" y="1700" type="line"/>
+      <point x="695" y="1550" type="line"/>
+      <point x="545" y="1550" type="line"/>
     </contour>
     <contour>
-      <point x="545" y="1700" type="curve"/>
-      <point x="545" y="1700"/>
-      <point x="695" y="1700"/>
-      <point x="695" y="1700" type="curve"/>
-      <point x="695" y="1700"/>
-      <point x="695" y="1550"/>
-      <point x="695" y="1550" type="curve"/>
-      <point x="695" y="1550"/>
-      <point x="545" y="1550"/>
-      <point x="545" y="1550" type="curve"/>
-      <point x="545" y="1550"/>
-      <point x="545" y="1700"/>
+      <point x="860" y="1400" type="line"/>
+      <point x="585" y="506" type="line"/>
+      <point x="585" y="0" type="line"/>
+      <point x="335" y="0" type="line"/>
+      <point x="335" y="506" type="line"/>
+      <point x="60" y="1400" type="line"/>
+      <point x="310" y="1400" type="line"/>
+      <point x="460" y="810" type="line"/>
+      <point x="600" y="1400" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1380</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1550</integer>
-            <key>width</key>
-            <integer>150</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>305</integer>
-            <key>width</key>
-            <integer>150</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>335</integer>
-            <key>width</key>
-            <integer>250</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>545</integer>
-            <key>width</key>
-            <integer>150</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

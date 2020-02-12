@@ -4,43 +4,10 @@
   <unicode hex="0060"/>
   <outline>
     <contour>
-      <point x="360" y="1450" type="curve"/>
-      <point x="360" y="1450"/>
-      <point x="500" y="1050"/>
-      <point x="500" y="1050" type="curve"/>
-      <point x="500" y="1050"/>
-      <point x="300" y="1050"/>
-      <point x="300" y="1050" type="curve"/>
-      <point x="300" y="1050"/>
-      <point x="100" y="1450"/>
-      <point x="100" y="1450" type="curve"/>
-      <point x="100" y="1450"/>
-      <point x="360" y="1450"/>
+      <point x="360" y="1450" type="line"/>
+      <point x="500" y="1050" type="line"/>
+      <point x="300" y="1050" type="line"/>
+      <point x="100" y="1450" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>1050</integer>
-            <key>width</key>
-            <integer>400</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>100</integer>
-            <key>width</key>
-            <integer>400</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

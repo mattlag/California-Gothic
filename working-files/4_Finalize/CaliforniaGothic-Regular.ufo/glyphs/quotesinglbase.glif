@@ -4,52 +4,13 @@
   <unicode hex="201A"/>
   <outline>
     <contour>
-      <point x="170" y="-200" type="curve"/>
-      <point x="170" y="-200"/>
-      <point x="70" y="-200"/>
-      <point x="70" y="-200" type="curve"/>
-      <point x="70" y="-200"/>
-      <point x="150" y="0"/>
-      <point x="150" y="0" type="curve"/>
-      <point x="150" y="0"/>
-      <point x="50" y="0"/>
-      <point x="50" y="0" type="curve"/>
-      <point x="50" y="0"/>
-      <point x="50" y="230"/>
-      <point x="50" y="230" type="curve"/>
-      <point x="50" y="230"/>
-      <point x="280" y="230"/>
-      <point x="280" y="230" type="curve"/>
-      <point x="280" y="230"/>
-      <point x="280" y="0"/>
-      <point x="280" y="0" type="curve"/>
-      <point x="280" y="0"/>
-      <point x="170" y="-200"/>
+      <point x="170" y="-200" type="line"/>
+      <point x="70" y="-200" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="50" y="230" type="line"/>
+      <point x="280" y="230" type="line"/>
+      <point x="280" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>230</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>50</integer>
-            <key>width</key>
-            <integer>230</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

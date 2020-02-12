@@ -4,75 +4,22 @@
   <unicode hex="2074"/>
   <outline>
     <contour>
-      <point x="300" y="850" type="curve"/>
-      <point x="300" y="850"/>
-      <point x="300" y="970"/>
-      <point x="300" y="970" type="curve"/>
-      <point x="300" y="970"/>
-      <point x="100" y="970"/>
-      <point x="100" y="970" type="curve"/>
-      <point x="100" y="970"/>
-      <point x="100" y="1045"/>
-      <point x="100" y="1045" type="curve"/>
-      <point x="100" y="1045"/>
-      <point x="280" y="1450"/>
-      <point x="280" y="1450" type="curve"/>
-      <point x="280" y="1450"/>
-      <point x="400" y="1450"/>
-      <point x="400" y="1450" type="curve"/>
-      <point x="400" y="1450"/>
-      <point x="400" y="1060"/>
-      <point x="400" y="1060" type="curve"/>
-      <point x="400" y="1060"/>
-      <point x="420" y="1060"/>
-      <point x="420" y="1060" type="curve"/>
-      <point x="420" y="1060"/>
-      <point x="420" y="970"/>
-      <point x="420" y="970" type="curve"/>
-      <point x="420" y="970"/>
-      <point x="400" y="970"/>
-      <point x="400" y="970" type="curve"/>
-      <point x="400" y="970"/>
-      <point x="400" y="850"/>
-      <point x="400" y="850" type="curve"/>
-      <point x="400" y="850"/>
-      <point x="300" y="850"/>
+      <point x="300" y="850" type="line"/>
+      <point x="300" y="970" type="line"/>
+      <point x="100" y="970" type="line"/>
+      <point x="100" y="1045" type="line"/>
+      <point x="280" y="1450" type="line"/>
+      <point x="400" y="1450" type="line"/>
+      <point x="400" y="1060" type="line"/>
+      <point x="420" y="1060" type="line"/>
+      <point x="420" y="970" type="line"/>
+      <point x="400" y="970" type="line"/>
+      <point x="400" y="850" type="line"/>
     </contour>
     <contour>
-      <point x="300" y="1060" type="curve"/>
-      <point x="300" y="1060"/>
-      <point x="300" y="1288"/>
-      <point x="300" y="1288" type="curve"/>
-      <point x="300" y="1288"/>
-      <point x="202" y="1060"/>
-      <point x="202" y="1060" type="curve"/>
-      <point x="202" y="1060"/>
-      <point x="300" y="1060"/>
+      <point x="300" y="1060" type="line"/>
+      <point x="300" y="1288" type="line"/>
+      <point x="202" y="1060" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>970</integer>
-            <key>width</key>
-            <integer>90</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>300</integer>
-            <key>width</key>
-            <integer>100</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

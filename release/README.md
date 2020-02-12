@@ -24,7 +24,7 @@ of the letter forms from [the original 1953 law](https://raw.githubusercontent.c
 
 # Info
 ### Download the font files from [mattlag.com/californiagothic](https://www.mattlag.com/californiagothic)
-v2.0 is out, it is a complete re-drawing of all glyphs, and includes 433 characters from the following ranges:
+v2.2 is out, it is a complete re-drawing of all glyphs, and includes 446 characters from the following ranges:
 ## Full character ranges
  - Basic Latin (U+0020 - U+007E)
  - Latin Supplement (U+00A0 - U+00FF)
@@ -32,10 +32,15 @@ v2.0 is out, it is a complete re-drawing of all glyphs, and includes 433 charact
  - General Punctuation (U+2000 - U+206F)
 
 ## Partial character ranges
- - Spacing Modifier Letters (U+02B0 - U+02FF)
- - Combining Diacritical Marks (U+0300 - U+036F)
- - Superscripts and Subscripts (U+2070 - U+209F)
- - Currency Symbols (U+20A0 - U+20CF)
+ - Spacing Modifier Letters (U+02B0 - U+02FF)
+ - Combining Diacritical Marks (U+0300 - U+036F)
+ - Superscripts and Subscripts (U+2070 - U+209F)
+ - Currency Symbols (U+20A0 - U+20CF)
+ - Letterlike Symbols (U+2100 - U+214F)
+ - Arrows (U+2190 - U+21FF)
+ - Mathematical Operators (U+2200 - U+22FF)
+ - Arabic Presentation Forms-B (U+FE70 - U+FEFF)
+ - Specials (U+FFF0 - U+FFFF)
 
 California Gothic is released under the SIL Open Font License, which you can read about in OFL.txt and 
 OFL-FAQ.txt in this project.

@@ -4,78 +4,21 @@
   <unicode hex="00FD"/>
   <outline>
     <contour>
-      <point x="860" y="1400" type="curve"/>
-      <point x="860" y="1400"/>
-      <point x="585" y="506"/>
-      <point x="585" y="506" type="curve"/>
-      <point x="585" y="506"/>
-      <point x="585" y="0"/>
-      <point x="585" y="0" type="curve"/>
-      <point x="585" y="0"/>
-      <point x="335" y="0"/>
-      <point x="335" y="0" type="curve"/>
-      <point x="335" y="0"/>
-      <point x="335" y="506"/>
-      <point x="335" y="506" type="curve"/>
-      <point x="335" y="506"/>
-      <point x="60" y="1400"/>
-      <point x="60" y="1400" type="curve"/>
-      <point x="60" y="1400"/>
-      <point x="310" y="1400"/>
-      <point x="310" y="1400" type="curve"/>
-      <point x="310" y="1400"/>
-      <point x="460" y="810"/>
-      <point x="460" y="810" type="curve"/>
-      <point x="460" y="810"/>
-      <point x="600" y="1400"/>
-      <point x="600" y="1400" type="curve"/>
-      <point x="600" y="1400"/>
-      <point x="860" y="1400"/>
+      <point x="690" y="1750" type="line"/>
+      <point x="490" y="1490" type="line"/>
+      <point x="330" y="1490" type="line"/>
+      <point x="470" y="1750" type="line"/>
     </contour>
     <contour>
-      <point x="690" y="1750" type="curve"/>
-      <point x="690" y="1750"/>
-      <point x="490" y="1490"/>
-      <point x="490" y="1490" type="curve"/>
-      <point x="490" y="1490"/>
-      <point x="330" y="1490"/>
-      <point x="330" y="1490" type="curve"/>
-      <point x="330" y="1490"/>
-      <point x="470" y="1750"/>
-      <point x="470" y="1750" type="curve"/>
-      <point x="470" y="1750"/>
-      <point x="690" y="1750"/>
+      <point x="860" y="1400" type="line"/>
+      <point x="585" y="506" type="line"/>
+      <point x="585" y="0" type="line"/>
+      <point x="335" y="0" type="line"/>
+      <point x="335" y="506" type="line"/>
+      <point x="60" y="1400" type="line"/>
+      <point x="310" y="1400" type="line"/>
+      <point x="460" y="810" type="line"/>
+      <point x="600" y="1400" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1380</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>335</integer>
-            <key>width</key>
-            <integer>250</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

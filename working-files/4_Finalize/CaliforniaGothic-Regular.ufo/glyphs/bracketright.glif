@@ -4,67 +4,14 @@
   <unicode hex="005D"/>
   <outline>
     <contour>
-      <point x="10" y="1400" type="curve"/>
-      <point x="10" y="1400"/>
-      <point x="10" y="1600"/>
-      <point x="10" y="1600" type="curve"/>
-      <point x="10" y="1600"/>
-      <point x="550" y="1600"/>
-      <point x="550" y="1600" type="curve"/>
-      <point x="550" y="1600"/>
-      <point x="550" y="-200"/>
-      <point x="550" y="-200" type="curve"/>
-      <point x="550" y="-200"/>
-      <point x="10" y="-200"/>
-      <point x="10" y="-200" type="curve"/>
-      <point x="10" y="-200"/>
-      <point x="10" y="0"/>
-      <point x="10" y="0" type="curve"/>
-      <point x="10" y="0"/>
-      <point x="320" y="0"/>
-      <point x="320" y="0" type="curve"/>
-      <point x="320" y="0"/>
-      <point x="320" y="1400"/>
-      <point x="320" y="1400" type="curve"/>
-      <point x="320" y="1400"/>
-      <point x="10" y="1400"/>
+      <point x="10" y="1400" type="line"/>
+      <point x="10" y="1600" type="line"/>
+      <point x="550" y="1600" type="line"/>
+      <point x="550" y="-200" type="line"/>
+      <point x="10" y="-200" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="320" y="0" type="line"/>
+      <point x="320" y="1400" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-200</integer>
-            <key>width</key>
-            <integer>200</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1400</integer>
-            <key>width</key>
-            <integer>200</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>10</integer>
-            <key>width</key>
-            <integer>540</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>320</integer>
-            <key>width</key>
-            <integer>230</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

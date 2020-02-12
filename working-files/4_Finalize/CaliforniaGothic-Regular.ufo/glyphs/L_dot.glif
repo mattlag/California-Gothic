@@ -4,81 +4,18 @@
   <unicode hex="013F"/>
   <outline>
     <contour>
-      <point x="350" y="255" type="curve"/>
-      <point x="350" y="255"/>
-      <point x="800" y="255"/>
-      <point x="800" y="255" type="curve"/>
-      <point x="800" y="255"/>
-      <point x="800" y="0"/>
-      <point x="800" y="0" type="curve"/>
-      <point x="800" y="0"/>
-      <point x="100" y="0"/>
-      <point x="100" y="0" type="curve"/>
-      <point x="100" y="0"/>
-      <point x="100" y="1400"/>
-      <point x="100" y="1400" type="curve"/>
-      <point x="100" y="1400"/>
-      <point x="350" y="1400"/>
-      <point x="350" y="1400" type="curve"/>
-      <point x="350" y="1400"/>
-      <point x="350" y="255"/>
+      <point x="350" y="255" type="line"/>
+      <point x="800" y="255" type="line"/>
+      <point x="800" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="1400" type="line"/>
+      <point x="350" y="1400" type="line"/>
     </contour>
     <contour>
-      <point x="450" y="815" type="curve"/>
-      <point x="450" y="815"/>
-      <point x="680" y="815"/>
-      <point x="680" y="815" type="curve"/>
-      <point x="680" y="815"/>
-      <point x="680" y="585"/>
-      <point x="680" y="585" type="curve"/>
-      <point x="680" y="585"/>
-      <point x="450" y="585"/>
-      <point x="450" y="585" type="curve"/>
-      <point x="450" y="585"/>
-      <point x="450" y="815"/>
+      <point x="450" y="815" type="line"/>
+      <point x="680" y="815" type="line"/>
+      <point x="680" y="585" type="line"/>
+      <point x="450" y="585" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>255</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>585</integer>
-            <key>width</key>
-            <integer>230</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1380</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>100</integer>
-            <key>width</key>
-            <integer>250</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>450</integer>
-            <key>width</key>
-            <integer>230</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

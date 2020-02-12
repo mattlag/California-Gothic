@@ -2,9 +2,4 @@
 <glyph name="uni2002" format="1">
   <advance width="780"/>
   <unicode hex="2002"/>
-  <outline>
-    <contour>
-      <point x="0" y="0" type="move" smooth="yes"/>
-    </contour>
-  </outline>
 </glyph>

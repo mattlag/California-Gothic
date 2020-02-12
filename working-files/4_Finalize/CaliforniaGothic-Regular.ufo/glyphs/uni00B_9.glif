@@ -4,58 +4,17 @@
   <unicode hex="00B9"/>
   <outline>
     <contour>
-      <point x="280" y="850" type="curve"/>
-      <point x="280" y="850"/>
-      <point x="177" y="850"/>
-      <point x="177" y="850" type="curve"/>
-      <point x="177" y="850"/>
+      <point x="280" y="850" type="line"/>
+      <point x="177" y="850" type="line"/>
+      <point x="177" y="1305" type="line"/>
       <point x="177" y="1305"/>
-      <point x="177" y="1305" type="curve"/>
-      <point x="177" y="1305"/>
-      <point x="150" y="1278"/>
-      <point x="100" y="1278" type="curve"/>
-      <point x="100" y="1278"/>
-      <point x="100" y="1395"/>
-      <point x="100" y="1395" type="curve"/>
-      <point x="152" y="1397"/>
+      <point x="138" y="1278"/>
+      <point x="100" y="1278" type="qcurve"/>
+      <point x="100" y="1395" type="line"/>
+      <point x="139" y="1397"/>
       <point x="187" y="1450"/>
-      <point x="187" y="1450" type="curve"/>
-      <point x="187" y="1450"/>
-      <point x="280" y="1450"/>
-      <point x="280" y="1450" type="curve"/>
-      <point x="280" y="1450"/>
-      <point x="280" y="850"/>
+      <point x="187" y="1450" type="qcurve"/>
+      <point x="280" y="1450" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>1278</integer>
-            <key>width</key>
-            <integer>117</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>100</integer>
-            <key>width</key>
-            <integer>180</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>177</integer>
-            <key>width</key>
-            <integer>103</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -131,315 +131,325 @@
     <GlyphID id="125" name="ampersand"/>
     <GlyphID id="126" name="aogonek"/>
     <GlyphID id="127" name="aring"/>
-    <GlyphID id="128" name="asciicircum"/>
-    <GlyphID id="129" name="asciitilde"/>
-    <GlyphID id="130" name="asterisk"/>
-    <GlyphID id="131" name="asteriskmath"/>
-    <GlyphID id="132" name="at"/>
-    <GlyphID id="133" name="atilde"/>
-    <GlyphID id="134" name="b"/>
-    <GlyphID id="135" name="backslash"/>
-    <GlyphID id="136" name="bar"/>
-    <GlyphID id="137" name="braceleft"/>
-    <GlyphID id="138" name="braceright"/>
-    <GlyphID id="139" name="bracketleft"/>
-    <GlyphID id="140" name="bracketright"/>
-    <GlyphID id="141" name="brokenbar"/>
-    <GlyphID id="142" name="bullet"/>
-    <GlyphID id="143" name="c"/>
-    <GlyphID id="144" name="cacute"/>
-    <GlyphID id="145" name="caron"/>
-    <GlyphID id="146" name="ccaron"/>
-    <GlyphID id="147" name="ccedilla"/>
-    <GlyphID id="148" name="ccircumflex"/>
-    <GlyphID id="149" name="cdotaccent"/>
-    <GlyphID id="150" name="cedilla"/>
-    <GlyphID id="151" name="cent"/>
-    <GlyphID id="152" name="circumflex"/>
-    <GlyphID id="153" name="colon"/>
-    <GlyphID id="154" name="comma"/>
-    <GlyphID id="155" name="copyright"/>
-    <GlyphID id="156" name="currency"/>
-    <GlyphID id="157" name="d"/>
-    <GlyphID id="158" name="dagger"/>
-    <GlyphID id="159" name="daggerdbl"/>
-    <GlyphID id="160" name="dcaron"/>
-    <GlyphID id="161" name="dcroat"/>
-    <GlyphID id="162" name="degree"/>
-    <GlyphID id="163" name="dieresis"/>
-    <GlyphID id="164" name="divide"/>
-    <GlyphID id="165" name="dollar"/>
-    <GlyphID id="166" name="dotlessi"/>
-    <GlyphID id="167" name="e"/>
-    <GlyphID id="168" name="eacute"/>
-    <GlyphID id="169" name="ebreve"/>
-    <GlyphID id="170" name="ecaron"/>
-    <GlyphID id="171" name="ecircumflex"/>
-    <GlyphID id="172" name="edieresis"/>
-    <GlyphID id="173" name="edotaccent"/>
-    <GlyphID id="174" name="egrave"/>
-    <GlyphID id="175" name="eight"/>
-    <GlyphID id="176" name="ellipsis"/>
-    <GlyphID id="177" name="emacron"/>
-    <GlyphID id="178" name="emdash"/>
-    <GlyphID id="179" name="endash"/>
-    <GlyphID id="180" name="eng"/>
-    <GlyphID id="181" name="eogonek"/>
-    <GlyphID id="182" name="equal"/>
-    <GlyphID id="183" name="eth"/>
-    <GlyphID id="184" name="exclam"/>
-    <GlyphID id="185" name="exclamdbl"/>
-    <GlyphID id="186" name="exclamdown"/>
-    <GlyphID id="187" name="f"/>
-    <GlyphID id="188" name="figuredash"/>
-    <GlyphID id="189" name="five"/>
-    <GlyphID id="190" name="four"/>
-    <GlyphID id="191" name="fraction"/>
-    <GlyphID id="192" name="g"/>
-    <GlyphID id="193" name="gbreve"/>
-    <GlyphID id="194" name="gcircumflex"/>
-    <GlyphID id="195" name="gdotaccent"/>
-    <GlyphID id="196" name="germandbls"/>
-    <GlyphID id="197" name="grave"/>
-    <GlyphID id="198" name="gravecomb"/>
-    <GlyphID id="199" name="greater"/>
-    <GlyphID id="200" name="guillemotleft"/>
-    <GlyphID id="201" name="guillemotright"/>
-    <GlyphID id="202" name="guilsinglleft"/>
-    <GlyphID id="203" name="guilsinglright"/>
-    <GlyphID id="204" name="h"/>
-    <GlyphID id="205" name="hbar"/>
-    <GlyphID id="206" name="hcircumflex"/>
-    <GlyphID id="207" name="hyphen"/>
-    <GlyphID id="208" name="i"/>
-    <GlyphID id="209" name="iacute"/>
-    <GlyphID id="210" name="ibreve"/>
-    <GlyphID id="211" name="icircumflex"/>
-    <GlyphID id="212" name="idieresis"/>
-    <GlyphID id="213" name="igrave"/>
-    <GlyphID id="214" name="ij"/>
-    <GlyphID id="215" name="imacron"/>
-    <GlyphID id="216" name="iogonek"/>
-    <GlyphID id="217" name="itilde"/>
-    <GlyphID id="218" name="j"/>
-    <GlyphID id="219" name="jcircumflex"/>
-    <GlyphID id="220" name="k"/>
-    <GlyphID id="221" name="kgreenlandic"/>
-    <GlyphID id="222" name="l"/>
-    <GlyphID id="223" name="lacute"/>
-    <GlyphID id="224" name="lcaron"/>
-    <GlyphID id="225" name="ldot"/>
-    <GlyphID id="226" name="less"/>
-    <GlyphID id="227" name="logicalnot"/>
-    <GlyphID id="228" name="longs"/>
-    <GlyphID id="229" name="lslash"/>
-    <GlyphID id="230" name="m"/>
-    <GlyphID id="231" name="macron"/>
-    <GlyphID id="232" name="minus"/>
-    <GlyphID id="233" name="minute"/>
-    <GlyphID id="234" name="mu"/>
-    <GlyphID id="235" name="multiply"/>
-    <GlyphID id="236" name="n"/>
-    <GlyphID id="237" name="nacute"/>
-    <GlyphID id="238" name="napostrophe"/>
-    <GlyphID id="239" name="nbsp"/>
-    <GlyphID id="240" name="ncaron"/>
-    <GlyphID id="241" name="nine"/>
-    <GlyphID id="242" name="ntilde"/>
-    <GlyphID id="243" name="numbersign"/>
-    <GlyphID id="244" name="o"/>
-    <GlyphID id="245" name="oacute"/>
-    <GlyphID id="246" name="obreve"/>
-    <GlyphID id="247" name="ocircumflex"/>
-    <GlyphID id="248" name="odieresis"/>
-    <GlyphID id="249" name="oe"/>
-    <GlyphID id="250" name="ograve"/>
-    <GlyphID id="251" name="ohungarumlaut"/>
-    <GlyphID id="252" name="omacron"/>
-    <GlyphID id="253" name="one"/>
-    <GlyphID id="254" name="onedotenleader"/>
-    <GlyphID id="255" name="onehalf"/>
-    <GlyphID id="256" name="onequarter"/>
-    <GlyphID id="257" name="ordfeminine"/>
-    <GlyphID id="258" name="ordmasculine"/>
-    <GlyphID id="259" name="oslash"/>
-    <GlyphID id="260" name="otilde"/>
-    <GlyphID id="261" name="p"/>
-    <GlyphID id="262" name="paragraph"/>
-    <GlyphID id="263" name="parenleft"/>
-    <GlyphID id="264" name="parenright"/>
-    <GlyphID id="265" name="percent"/>
-    <GlyphID id="266" name="period"/>
-    <GlyphID id="267" name="periodcentered"/>
-    <GlyphID id="268" name="perthousand"/>
-    <GlyphID id="269" name="plus"/>
-    <GlyphID id="270" name="plusminus"/>
-    <GlyphID id="271" name="q"/>
-    <GlyphID id="272" name="question"/>
-    <GlyphID id="273" name="questiondown"/>
-    <GlyphID id="274" name="quotedbl"/>
-    <GlyphID id="275" name="quotedblbase"/>
-    <GlyphID id="276" name="quotedblleft"/>
-    <GlyphID id="277" name="quotedblright"/>
-    <GlyphID id="278" name="quoteleft"/>
-    <GlyphID id="279" name="quotereversed"/>
-    <GlyphID id="280" name="quoteright"/>
-    <GlyphID id="281" name="quotesinglbase"/>
-    <GlyphID id="282" name="quotesingle"/>
-    <GlyphID id="283" name="r"/>
-    <GlyphID id="284" name="racute"/>
-    <GlyphID id="285" name="rcaron"/>
-    <GlyphID id="286" name="registered"/>
-    <GlyphID id="287" name="ring"/>
-    <GlyphID id="288" name="s"/>
-    <GlyphID id="289" name="sacute"/>
-    <GlyphID id="290" name="scaron"/>
-    <GlyphID id="291" name="scedilla"/>
-    <GlyphID id="292" name="scircumflex"/>
-    <GlyphID id="293" name="second"/>
-    <GlyphID id="294" name="section"/>
-    <GlyphID id="295" name="semicolon"/>
-    <GlyphID id="296" name="seven"/>
-    <GlyphID id="297" name="six"/>
-    <GlyphID id="298" name="slash"/>
-    <GlyphID id="299" name="space"/>
-    <GlyphID id="300" name="sterling"/>
-    <GlyphID id="301" name="t"/>
-    <GlyphID id="302" name="tbar"/>
-    <GlyphID id="303" name="tcaron"/>
-    <GlyphID id="304" name="thorn"/>
-    <GlyphID id="305" name="three"/>
-    <GlyphID id="306" name="threequarters"/>
-    <GlyphID id="307" name="tilde"/>
-    <GlyphID id="308" name="tildecomb"/>
-    <GlyphID id="309" name="two"/>
-    <GlyphID id="310" name="twodotenleader"/>
-    <GlyphID id="311" name="u"/>
-    <GlyphID id="312" name="uacute"/>
-    <GlyphID id="313" name="ubreve"/>
-    <GlyphID id="314" name="ucircumflex"/>
-    <GlyphID id="315" name="udieresis"/>
-    <GlyphID id="316" name="ugrave"/>
-    <GlyphID id="317" name="uhungarumlaut"/>
-    <GlyphID id="318" name="umacron"/>
-    <GlyphID id="319" name="underscore"/>
-    <GlyphID id="320" name="underscoredbl"/>
-    <GlyphID id="321" name="uni00AD"/>
-    <GlyphID id="322" name="uni00B2"/>
-    <GlyphID id="323" name="uni00B3"/>
-    <GlyphID id="324" name="uni00B9"/>
-    <GlyphID id="325" name="uni0122"/>
-    <GlyphID id="326" name="uni0123"/>
-    <GlyphID id="327" name="uni0136"/>
-    <GlyphID id="328" name="uni0137"/>
-    <GlyphID id="329" name="uni013B"/>
-    <GlyphID id="330" name="uni013C"/>
-    <GlyphID id="331" name="uni0145"/>
-    <GlyphID id="332" name="uni0146"/>
-    <GlyphID id="333" name="uni0156"/>
-    <GlyphID id="334" name="uni0157"/>
-    <GlyphID id="335" name="uni0162"/>
-    <GlyphID id="336" name="uni0163"/>
-    <GlyphID id="337" name="uni02B9"/>
-    <GlyphID id="338" name="uni02BA"/>
-    <GlyphID id="339" name="uni02CA"/>
-    <GlyphID id="340" name="uni02CB"/>
-    <GlyphID id="341" name="uni0302"/>
-    <GlyphID id="342" name="uni0304"/>
-    <GlyphID id="343" name="uni0305"/>
-    <GlyphID id="344" name="uni0306"/>
-    <GlyphID id="345" name="uni0307"/>
-    <GlyphID id="346" name="uni0308"/>
-    <GlyphID id="347" name="uni030A"/>
-    <GlyphID id="348" name="uni030B"/>
-    <GlyphID id="349" name="uni030C"/>
-    <GlyphID id="350" name="uni0327"/>
-    <GlyphID id="351" name="uni0328"/>
-    <GlyphID id="352" name="uni0335"/>
-    <GlyphID id="353" name="uni2000"/>
-    <GlyphID id="354" name="uni2002"/>
-    <GlyphID id="355" name="uni2003"/>
-    <GlyphID id="356" name="uni2009"/>
-    <GlyphID id="357" name="uni200A"/>
-    <GlyphID id="358" name="uni200B"/>
-    <GlyphID id="359" name="uni2010"/>
-    <GlyphID id="360" name="uni2011"/>
-    <GlyphID id="361" name="uni2015"/>
-    <GlyphID id="362" name="uni2016"/>
-    <GlyphID id="363" name="uni201F"/>
-    <GlyphID id="364" name="uni2023"/>
-    <GlyphID id="365" name="uni2027"/>
-    <GlyphID id="366" name="uni2031"/>
-    <GlyphID id="367" name="uni2034"/>
-    <GlyphID id="368" name="uni2035"/>
-    <GlyphID id="369" name="uni2036"/>
-    <GlyphID id="370" name="uni2037"/>
-    <GlyphID id="371" name="uni2038"/>
-    <GlyphID id="372" name="uni203B"/>
-    <GlyphID id="373" name="uni203D"/>
-    <GlyphID id="374" name="uni203E"/>
-    <GlyphID id="375" name="uni203F"/>
-    <GlyphID id="376" name="uni2040"/>
-    <GlyphID id="377" name="uni2041"/>
-    <GlyphID id="378" name="uni2042"/>
-    <GlyphID id="379" name="uni2043"/>
-    <GlyphID id="380" name="uni2045"/>
-    <GlyphID id="381" name="uni2046"/>
-    <GlyphID id="382" name="uni2047"/>
-    <GlyphID id="383" name="uni2048"/>
-    <GlyphID id="384" name="uni2049"/>
-    <GlyphID id="385" name="uni204A"/>
-    <GlyphID id="386" name="uni204B"/>
-    <GlyphID id="387" name="uni204C"/>
-    <GlyphID id="388" name="uni204D"/>
-    <GlyphID id="389" name="uni204E"/>
-    <GlyphID id="390" name="uni204F"/>
-    <GlyphID id="391" name="uni2050"/>
-    <GlyphID id="392" name="uni2051"/>
-    <GlyphID id="393" name="uni2052"/>
-    <GlyphID id="394" name="uni2053"/>
-    <GlyphID id="395" name="uni2054"/>
-    <GlyphID id="396" name="uni2055"/>
-    <GlyphID id="397" name="uni2056"/>
-    <GlyphID id="398" name="uni2057"/>
-    <GlyphID id="399" name="uni2058"/>
-    <GlyphID id="400" name="uni2059"/>
-    <GlyphID id="401" name="uni205A"/>
-    <GlyphID id="402" name="uni205B"/>
-    <GlyphID id="403" name="uni205C"/>
-    <GlyphID id="404" name="uni205D"/>
-    <GlyphID id="405" name="uni205E"/>
-    <GlyphID id="406" name="uni2074"/>
-    <GlyphID id="407" name="uni2215"/>
-    <GlyphID id="408" name="uogonek"/>
-    <GlyphID id="409" name="uring"/>
-    <GlyphID id="410" name="utilde"/>
-    <GlyphID id="411" name="v"/>
-    <GlyphID id="412" name="w"/>
-    <GlyphID id="413" name="wcircumflex"/>
-    <GlyphID id="414" name="x"/>
-    <GlyphID id="415" name="y"/>
-    <GlyphID id="416" name="yacute"/>
-    <GlyphID id="417" name="ycircumflex"/>
-    <GlyphID id="418" name="ydieresis"/>
-    <GlyphID id="419" name="yen"/>
-    <GlyphID id="420" name="z"/>
-    <GlyphID id="421" name="zacute"/>
-    <GlyphID id="422" name="zcaron"/>
-    <GlyphID id="423" name="zdotaccent"/>
-    <GlyphID id="424" name="zero"/>
+    <GlyphID id="128" name="arrowdown"/>
+    <GlyphID id="129" name="arrowleft"/>
+    <GlyphID id="130" name="arrowright"/>
+    <GlyphID id="131" name="arrowup"/>
+    <GlyphID id="132" name="asciicircum"/>
+    <GlyphID id="133" name="asciitilde"/>
+    <GlyphID id="134" name="asterisk"/>
+    <GlyphID id="135" name="asteriskmath"/>
+    <GlyphID id="136" name="at"/>
+    <GlyphID id="137" name="atilde"/>
+    <GlyphID id="138" name="b"/>
+    <GlyphID id="139" name="backslash"/>
+    <GlyphID id="140" name="bar"/>
+    <GlyphID id="141" name="braceleft"/>
+    <GlyphID id="142" name="braceright"/>
+    <GlyphID id="143" name="bracketleft"/>
+    <GlyphID id="144" name="bracketright"/>
+    <GlyphID id="145" name="brokenbar"/>
+    <GlyphID id="146" name="bullet"/>
+    <GlyphID id="147" name="c"/>
+    <GlyphID id="148" name="cacute"/>
+    <GlyphID id="149" name="caron"/>
+    <GlyphID id="150" name="ccaron"/>
+    <GlyphID id="151" name="ccedilla"/>
+    <GlyphID id="152" name="ccircumflex"/>
+    <GlyphID id="153" name="cdotaccent"/>
+    <GlyphID id="154" name="cedilla"/>
+    <GlyphID id="155" name="cent"/>
+    <GlyphID id="156" name="circumflex"/>
+    <GlyphID id="157" name="colon"/>
+    <GlyphID id="158" name="comma"/>
+    <GlyphID id="159" name="copyright"/>
+    <GlyphID id="160" name="currency"/>
+    <GlyphID id="161" name="d"/>
+    <GlyphID id="162" name="dagger"/>
+    <GlyphID id="163" name="daggerdbl"/>
+    <GlyphID id="164" name="dcaron"/>
+    <GlyphID id="165" name="dcroat"/>
+    <GlyphID id="166" name="degree"/>
+    <GlyphID id="167" name="dieresis"/>
+    <GlyphID id="168" name="divide"/>
+    <GlyphID id="169" name="dollar"/>
+    <GlyphID id="170" name="dotlessi"/>
+    <GlyphID id="171" name="e"/>
+    <GlyphID id="172" name="eacute"/>
+    <GlyphID id="173" name="ebreve"/>
+    <GlyphID id="174" name="ecaron"/>
+    <GlyphID id="175" name="ecircumflex"/>
+    <GlyphID id="176" name="edieresis"/>
+    <GlyphID id="177" name="edotaccent"/>
+    <GlyphID id="178" name="egrave"/>
+    <GlyphID id="179" name="eight"/>
+    <GlyphID id="180" name="ellipsis"/>
+    <GlyphID id="181" name="emacron"/>
+    <GlyphID id="182" name="emdash"/>
+    <GlyphID id="183" name="endash"/>
+    <GlyphID id="184" name="eng"/>
+    <GlyphID id="185" name="eogonek"/>
+    <GlyphID id="186" name="equal"/>
+    <GlyphID id="187" name="eth"/>
+    <GlyphID id="188" name="exclam"/>
+    <GlyphID id="189" name="exclamdbl"/>
+    <GlyphID id="190" name="exclamdown"/>
+    <GlyphID id="191" name="f"/>
+    <GlyphID id="192" name="figuredash"/>
+    <GlyphID id="193" name="five"/>
+    <GlyphID id="194" name="four"/>
+    <GlyphID id="195" name="fraction"/>
+    <GlyphID id="196" name="g"/>
+    <GlyphID id="197" name="gbreve"/>
+    <GlyphID id="198" name="gcircumflex"/>
+    <GlyphID id="199" name="gdotaccent"/>
+    <GlyphID id="200" name="germandbls"/>
+    <GlyphID id="201" name="grave"/>
+    <GlyphID id="202" name="gravecomb"/>
+    <GlyphID id="203" name="greater"/>
+    <GlyphID id="204" name="guillemotleft"/>
+    <GlyphID id="205" name="guillemotright"/>
+    <GlyphID id="206" name="guilsinglleft"/>
+    <GlyphID id="207" name="guilsinglright"/>
+    <GlyphID id="208" name="h"/>
+    <GlyphID id="209" name="hbar"/>
+    <GlyphID id="210" name="hcircumflex"/>
+    <GlyphID id="211" name="hyphen"/>
+    <GlyphID id="212" name="i"/>
+    <GlyphID id="213" name="iacute"/>
+    <GlyphID id="214" name="ibreve"/>
+    <GlyphID id="215" name="icircumflex"/>
+    <GlyphID id="216" name="idieresis"/>
+    <GlyphID id="217" name="igrave"/>
+    <GlyphID id="218" name="ij"/>
+    <GlyphID id="219" name="imacron"/>
+    <GlyphID id="220" name="iogonek"/>
+    <GlyphID id="221" name="itilde"/>
+    <GlyphID id="222" name="j"/>
+    <GlyphID id="223" name="jcircumflex"/>
+    <GlyphID id="224" name="k"/>
+    <GlyphID id="225" name="kgreenlandic"/>
+    <GlyphID id="226" name="l"/>
+    <GlyphID id="227" name="lacute"/>
+    <GlyphID id="228" name="lcaron"/>
+    <GlyphID id="229" name="ldot"/>
+    <GlyphID id="230" name="less"/>
+    <GlyphID id="231" name="logicalnot"/>
+    <GlyphID id="232" name="longs"/>
+    <GlyphID id="233" name="lslash"/>
+    <GlyphID id="234" name="m"/>
+    <GlyphID id="235" name="macron"/>
+    <GlyphID id="236" name="minus"/>
+    <GlyphID id="237" name="minute"/>
+    <GlyphID id="238" name="mu"/>
+    <GlyphID id="239" name="multiply"/>
+    <GlyphID id="240" name="n"/>
+    <GlyphID id="241" name="nacute"/>
+    <GlyphID id="242" name="napostrophe"/>
+    <GlyphID id="243" name="nbsp"/>
+    <GlyphID id="244" name="ncaron"/>
+    <GlyphID id="245" name="nine"/>
+    <GlyphID id="246" name="ntilde"/>
+    <GlyphID id="247" name="numbersign"/>
+    <GlyphID id="248" name="o"/>
+    <GlyphID id="249" name="oacute"/>
+    <GlyphID id="250" name="obreve"/>
+    <GlyphID id="251" name="ocircumflex"/>
+    <GlyphID id="252" name="odieresis"/>
+    <GlyphID id="253" name="oe"/>
+    <GlyphID id="254" name="ograve"/>
+    <GlyphID id="255" name="ohungarumlaut"/>
+    <GlyphID id="256" name="omacron"/>
+    <GlyphID id="257" name="one"/>
+    <GlyphID id="258" name="onedotenleader"/>
+    <GlyphID id="259" name="onehalf"/>
+    <GlyphID id="260" name="onequarter"/>
+    <GlyphID id="261" name="ordfeminine"/>
+    <GlyphID id="262" name="ordmasculine"/>
+    <GlyphID id="263" name="oslash"/>
+    <GlyphID id="264" name="otilde"/>
+    <GlyphID id="265" name="p"/>
+    <GlyphID id="266" name="paragraph"/>
+    <GlyphID id="267" name="parenleft"/>
+    <GlyphID id="268" name="parenright"/>
+    <GlyphID id="269" name="percent"/>
+    <GlyphID id="270" name="period"/>
+    <GlyphID id="271" name="periodcentered"/>
+    <GlyphID id="272" name="perthousand"/>
+    <GlyphID id="273" name="plus"/>
+    <GlyphID id="274" name="plusminus"/>
+    <GlyphID id="275" name="q"/>
+    <GlyphID id="276" name="question"/>
+    <GlyphID id="277" name="questiondown"/>
+    <GlyphID id="278" name="quotedbl"/>
+    <GlyphID id="279" name="quotedblbase"/>
+    <GlyphID id="280" name="quotedblleft"/>
+    <GlyphID id="281" name="quotedblright"/>
+    <GlyphID id="282" name="quoteleft"/>
+    <GlyphID id="283" name="quotereversed"/>
+    <GlyphID id="284" name="quoteright"/>
+    <GlyphID id="285" name="quotesinglbase"/>
+    <GlyphID id="286" name="quotesingle"/>
+    <GlyphID id="287" name="r"/>
+    <GlyphID id="288" name="racute"/>
+    <GlyphID id="289" name="rcaron"/>
+    <GlyphID id="290" name="registered"/>
+    <GlyphID id="291" name="ring"/>
+    <GlyphID id="292" name="s"/>
+    <GlyphID id="293" name="sacute"/>
+    <GlyphID id="294" name="scaron"/>
+    <GlyphID id="295" name="scedilla"/>
+    <GlyphID id="296" name="scircumflex"/>
+    <GlyphID id="297" name="second"/>
+    <GlyphID id="298" name="section"/>
+    <GlyphID id="299" name="semicolon"/>
+    <GlyphID id="300" name="seven"/>
+    <GlyphID id="301" name="six"/>
+    <GlyphID id="302" name="slash"/>
+    <GlyphID id="303" name="space"/>
+    <GlyphID id="304" name="sterling"/>
+    <GlyphID id="305" name="t"/>
+    <GlyphID id="306" name="tbar"/>
+    <GlyphID id="307" name="tcaron"/>
+    <GlyphID id="308" name="thorn"/>
+    <GlyphID id="309" name="three"/>
+    <GlyphID id="310" name="threequarters"/>
+    <GlyphID id="311" name="tilde"/>
+    <GlyphID id="312" name="tildecomb"/>
+    <GlyphID id="313" name="trademark"/>
+    <GlyphID id="314" name="two"/>
+    <GlyphID id="315" name="twodotenleader"/>
+    <GlyphID id="316" name="u"/>
+    <GlyphID id="317" name="uacute"/>
+    <GlyphID id="318" name="ubreve"/>
+    <GlyphID id="319" name="ucircumflex"/>
+    <GlyphID id="320" name="udieresis"/>
+    <GlyphID id="321" name="ugrave"/>
+    <GlyphID id="322" name="uhungarumlaut"/>
+    <GlyphID id="323" name="umacron"/>
+    <GlyphID id="324" name="underscore"/>
+    <GlyphID id="325" name="underscoredbl"/>
+    <GlyphID id="326" name="uni00AD"/>
+    <GlyphID id="327" name="uni00B2"/>
+    <GlyphID id="328" name="uni00B3"/>
+    <GlyphID id="329" name="uni00B9"/>
+    <GlyphID id="330" name="uni0122"/>
+    <GlyphID id="331" name="uni0123"/>
+    <GlyphID id="332" name="uni0136"/>
+    <GlyphID id="333" name="uni0137"/>
+    <GlyphID id="334" name="uni013B"/>
+    <GlyphID id="335" name="uni013C"/>
+    <GlyphID id="336" name="uni0145"/>
+    <GlyphID id="337" name="uni0146"/>
+    <GlyphID id="338" name="uni0156"/>
+    <GlyphID id="339" name="uni0157"/>
+    <GlyphID id="340" name="uni0162"/>
+    <GlyphID id="341" name="uni0163"/>
+    <GlyphID id="342" name="uni02B9"/>
+    <GlyphID id="343" name="uni02BA"/>
+    <GlyphID id="344" name="uni02BB"/>
+    <GlyphID id="345" name="uni02BC"/>
+    <GlyphID id="346" name="uni02BD"/>
+    <GlyphID id="347" name="uni02CA"/>
+    <GlyphID id="348" name="uni02CB"/>
+    <GlyphID id="349" name="uni0302"/>
+    <GlyphID id="350" name="uni0304"/>
+    <GlyphID id="351" name="uni0305"/>
+    <GlyphID id="352" name="uni0306"/>
+    <GlyphID id="353" name="uni0307"/>
+    <GlyphID id="354" name="uni0308"/>
+    <GlyphID id="355" name="uni030A"/>
+    <GlyphID id="356" name="uni030B"/>
+    <GlyphID id="357" name="uni030C"/>
+    <GlyphID id="358" name="uni0327"/>
+    <GlyphID id="359" name="uni0328"/>
+    <GlyphID id="360" name="uni0335"/>
+    <GlyphID id="361" name="uni2000"/>
+    <GlyphID id="362" name="uni2002"/>
+    <GlyphID id="363" name="uni2003"/>
+    <GlyphID id="364" name="uni2009"/>
+    <GlyphID id="365" name="uni200A"/>
+    <GlyphID id="366" name="uni200B"/>
+    <GlyphID id="367" name="uni2010"/>
+    <GlyphID id="368" name="uni2011"/>
+    <GlyphID id="369" name="uni2015"/>
+    <GlyphID id="370" name="uni2016"/>
+    <GlyphID id="371" name="uni201F"/>
+    <GlyphID id="372" name="uni2023"/>
+    <GlyphID id="373" name="uni2027"/>
+    <GlyphID id="374" name="uni2031"/>
+    <GlyphID id="375" name="uni2034"/>
+    <GlyphID id="376" name="uni2035"/>
+    <GlyphID id="377" name="uni2036"/>
+    <GlyphID id="378" name="uni2037"/>
+    <GlyphID id="379" name="uni2038"/>
+    <GlyphID id="380" name="uni203B"/>
+    <GlyphID id="381" name="uni203D"/>
+    <GlyphID id="382" name="uni203E"/>
+    <GlyphID id="383" name="uni203F"/>
+    <GlyphID id="384" name="uni2040"/>
+    <GlyphID id="385" name="uni2041"/>
+    <GlyphID id="386" name="uni2042"/>
+    <GlyphID id="387" name="uni2043"/>
+    <GlyphID id="388" name="uni2045"/>
+    <GlyphID id="389" name="uni2046"/>
+    <GlyphID id="390" name="uni2047"/>
+    <GlyphID id="391" name="uni2048"/>
+    <GlyphID id="392" name="uni2049"/>
+    <GlyphID id="393" name="uni204A"/>
+    <GlyphID id="394" name="uni204B"/>
+    <GlyphID id="395" name="uni204C"/>
+    <GlyphID id="396" name="uni204D"/>
+    <GlyphID id="397" name="uni204E"/>
+    <GlyphID id="398" name="uni204F"/>
+    <GlyphID id="399" name="uni2050"/>
+    <GlyphID id="400" name="uni2051"/>
+    <GlyphID id="401" name="uni2052"/>
+    <GlyphID id="402" name="uni2053"/>
+    <GlyphID id="403" name="uni2054"/>
+    <GlyphID id="404" name="uni2055"/>
+    <GlyphID id="405" name="uni2056"/>
+    <GlyphID id="406" name="uni2057"/>
+    <GlyphID id="407" name="uni2058"/>
+    <GlyphID id="408" name="uni2059"/>
+    <GlyphID id="409" name="uni205A"/>
+    <GlyphID id="410" name="uni205B"/>
+    <GlyphID id="411" name="uni205C"/>
+    <GlyphID id="412" name="uni205D"/>
+    <GlyphID id="413" name="uni205E"/>
+    <GlyphID id="414" name="uni2074"/>
+    <GlyphID id="415" name="uni2215"/>
+    <GlyphID id="416" name="uniFEFF"/>
+    <GlyphID id="417" name="uniFFFD"/>
+    <GlyphID id="418" name="uogonek"/>
+    <GlyphID id="419" name="uring"/>
+    <GlyphID id="420" name="utilde"/>
+    <GlyphID id="421" name="v"/>
+    <GlyphID id="422" name="w"/>
+    <GlyphID id="423" name="wcircumflex"/>
+    <GlyphID id="424" name="x"/>
+    <GlyphID id="425" name="y"/>
+    <GlyphID id="426" name="yacute"/>
+    <GlyphID id="427" name="ycircumflex"/>
+    <GlyphID id="428" name="ydieresis"/>
+    <GlyphID id="429" name="yen"/>
+    <GlyphID id="430" name="z"/>
+    <GlyphID id="431" name="zacute"/>
+    <GlyphID id="432" name="zcaron"/>
+    <GlyphID id="433" name="zdotaccent"/>
+    <GlyphID id="434" name="zero"/>
   </GlyphOrder>
 
   <head>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
-    <fontRevision value="2.1"/>
-    <checkSumAdjustment value="0xc30ff479"/>
+    <fontRevision value="2.2"/>
+    <checkSumAdjustment value="0xaa2d32a5"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00001111"/>
     <unitsPerEm value="2048"/>
-    <created value="Fri Jan 10 22:20:27 2020"/>
-    <modified value="Fri Jan 10 22:41:51 2020"/>
+    <created value="Wed Feb 12 20:59:10 2020"/>
+    <modified value="Wed Feb 12 22:25:16 2020"/>
     <xMin value="-80"/>
     <yMin value="-400"/>
     <xMax value="2060"/>
@@ -468,14 +478,14 @@
     <reserved2 value="0"/>
     <reserved3 value="0"/>
     <metricDataFormat value="0"/>
-    <numberOfHMetrics value="425"/>
+    <numberOfHMetrics value="435"/>
   </hhea>
 
   <maxp>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="0x10000"/>
-    <numGlyphs value="425"/>
-    <maxPoints value="188"/>
+    <numGlyphs value="435"/>
+    <maxPoints value="180"/>
     <maxContours value="9"/>
     <maxCompositePoints value="0"/>
     <maxCompositeContours value="0"/>
@@ -494,7 +504,7 @@
     <!-- The fields 'usFirstCharIndex' and 'usLastCharIndex'
          will be recalculated by the compiler -->
     <version value="4"/>
-    <xAvgCharWidth value="884"/>
+    <xAvgCharWidth value="882"/>
     <usWeightClass value="400"/>
     <usWidthClass value="5"/>
     <fsType value="00000000 00000000"/>
@@ -508,7 +518,7 @@
     <ySuperscriptYOffset value="717"/>
     <yStrikeoutSize value="100"/>
     <yStrikeoutPosition value="420"/>
-    <sFamilyClass value="0"/>
+    <sFamilyClass value="2048"/>
     <panose>
       <bFamilyType value="2"/>
       <bSerifStyle value="0"/>
@@ -522,13 +532,13 @@
       <bXHeight value="0"/>
     </panose>
     <ulUnicodeRange1 value="10000000 00000000 00000000 01100111"/>
-    <ulUnicodeRange2 value="00000000 00000000 00000000 01000011"/>
-    <ulUnicodeRange3 value="00000000 00000000 00000000 00000000"/>
+    <ulUnicodeRange2 value="00000000 00000000 00000000 01101011"/>
+    <ulUnicodeRange3 value="00000000 00000000 00000000 00101000"/>
     <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
     <achVendID value="LaG "/>
     <fsSelection value="00000000 01000000"/>
-    <usFirstCharIndex value="0"/>
-    <usLastCharIndex value="8727"/>
+    <usFirstCharIndex value="32"/>
+    <usLastCharIndex value="65533"/>
     <sTypoAscender value="1800"/>
     <sTypoDescender value="-400"/>
     <sTypoLineGap value="0"/>
@@ -672,6 +682,10 @@
     <mtx name="ampersand" width="1170" lsb="100"/>
     <mtx name="aogonek" width="940" lsb="-80"/>
     <mtx name="aring" width="940" lsb="0"/>
+    <mtx name="arrowdown" width="1041" lsb="50"/>
+    <mtx name="arrowleft" width="1150" lsb="50"/>
+    <mtx name="arrowright" width="1150" lsb="50"/>
+    <mtx name="arrowup" width="941" lsb="50"/>
     <mtx name="asciicircum" width="935" lsb="100"/>
     <mtx name="asciitilde" width="1070" lsb="100"/>
     <mtx name="asterisk" width="1023" lsb="100"/>
@@ -853,6 +867,7 @@
     <mtx name="threequarters" width="970" lsb="100"/>
     <mtx name="tilde" width="702" lsb="100"/>
     <mtx name="tildecomb" width="702" lsb="100"/>
+    <mtx name="trademark" width="820" lsb="10"/>
     <mtx name="two" width="930" lsb="100"/>
     <mtx name="twodotenleader" width="710" lsb="100"/>
     <mtx name="u" width="970" lsb="100"/>
@@ -883,6 +898,9 @@
     <mtx name="uni0163" width="880" lsb="41"/>
     <mtx name="uni02B9" width="540" lsb="100"/>
     <mtx name="uni02BA" width="790" lsb="100"/>
+    <mtx name="uni02BB" width="430" lsb="100"/>
+    <mtx name="uni02BC" width="430" lsb="100"/>
+    <mtx name="uni02BD" width="430" lsb="100"/>
     <mtx name="uni02CA" width="560" lsb="100"/>
     <mtx name="uni02CB" width="560" lsb="100"/>
     <mtx name="uni0302" width="741" lsb="100"/>
@@ -952,6 +970,8 @@
     <mtx name="uni205E" width="430" lsb="100"/>
     <mtx name="uni2074" width="520" lsb="100"/>
     <mtx name="uni2215" width="1000" lsb="50"/>
+    <mtx name="uniFEFF" width="0" lsb="0"/>
+    <mtx name="uniFFFD" width="940" lsb="100"/>
     <mtx name="uogonek" width="970" lsb="100"/>
     <mtx name="uring" width="970" lsb="100"/>
     <mtx name="utilde" width="970" lsb="100"/>
@@ -1295,6 +1315,9 @@
       <map code="0x17f" name="longs"/><!-- LATIN SMALL LETTER LONG S -->
       <map code="0x2b9" name="uni02B9"/><!-- MODIFIER LETTER PRIME -->
       <map code="0x2ba" name="uni02BA"/><!-- MODIFIER LETTER DOUBLE PRIME -->
+      <map code="0x2bb" name="uni02BB"/><!-- MODIFIER LETTER TURNED COMMA -->
+      <map code="0x2bc" name="uni02BC"/><!-- MODIFIER LETTER APOSTROPHE -->
+      <map code="0x2bd" name="uni02BD"/><!-- MODIFIER LETTER REVERSED COMMA -->
       <map code="0x2c6" name="circumflex"/><!-- MODIFIER LETTER CIRCUMFLEX ACCENT -->
       <map code="0x2c7" name="caron"/><!-- CARON -->
       <map code="0x2ca" name="uni02CA"/><!-- MODIFIER LETTER ACUTE ACCENT -->
@@ -1395,9 +1418,16 @@
       <map code="0x205e" name="uni205E"/><!-- VERTICAL FOUR DOTS -->
       <map code="0x2074" name="uni2074"/><!-- SUPERSCRIPT FOUR -->
       <map code="0x20ac" name="Euro"/><!-- EURO SIGN -->
+      <map code="0x2122" name="trademark"/><!-- TRADE MARK SIGN -->
+      <map code="0x2190" name="arrowleft"/><!-- LEFTWARDS ARROW -->
+      <map code="0x2191" name="arrowup"/><!-- UPWARDS ARROW -->
+      <map code="0x2192" name="arrowright"/><!-- RIGHTWARDS ARROW -->
+      <map code="0x2193" name="arrowdown"/><!-- DOWNWARDS ARROW -->
       <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
       <map code="0x2215" name="uni2215"/><!-- DIVISION SLASH -->
       <map code="0x2217" name="asteriskmath"/><!-- ASTERISK OPERATOR -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+      <map code="0xfffd" name="uniFFFD"/><!-- REPLACEMENT CHARACTER -->
     </cmap_format_4>
     <cmap_format_4 platformID="3" platEncID="1" language="0">
       <map code="0x20" name="space"/><!-- SPACE -->
@@ -1721,6 +1751,9 @@
       <map code="0x17f" name="longs"/><!-- LATIN SMALL LETTER LONG S -->
       <map code="0x2b9" name="uni02B9"/><!-- MODIFIER LETTER PRIME -->
       <map code="0x2ba" name="uni02BA"/><!-- MODIFIER LETTER DOUBLE PRIME -->
+      <map code="0x2bb" name="uni02BB"/><!-- MODIFIER LETTER TURNED COMMA -->
+      <map code="0x2bc" name="uni02BC"/><!-- MODIFIER LETTER APOSTROPHE -->
+      <map code="0x2bd" name="uni02BD"/><!-- MODIFIER LETTER REVERSED COMMA -->
       <map code="0x2c6" name="circumflex"/><!-- MODIFIER LETTER CIRCUMFLEX ACCENT -->
       <map code="0x2c7" name="caron"/><!-- CARON -->
       <map code="0x2ca" name="uni02CA"/><!-- MODIFIER LETTER ACUTE ACCENT -->
@@ -1821,9 +1854,16 @@
       <map code="0x205e" name="uni205E"/><!-- VERTICAL FOUR DOTS -->
       <map code="0x2074" name="uni2074"/><!-- SUPERSCRIPT FOUR -->
       <map code="0x20ac" name="Euro"/><!-- EURO SIGN -->
+      <map code="0x2122" name="trademark"/><!-- TRADE MARK SIGN -->
+      <map code="0x2190" name="arrowleft"/><!-- LEFTWARDS ARROW -->
+      <map code="0x2191" name="arrowup"/><!-- UPWARDS ARROW -->
+      <map code="0x2192" name="arrowright"/><!-- RIGHTWARDS ARROW -->
+      <map code="0x2193" name="arrowdown"/><!-- DOWNWARDS ARROW -->
       <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
       <map code="0x2215" name="uni2215"/><!-- DIVISION SLASH -->
       <map code="0x2217" name="asteriskmath"/><!-- ASTERISK OPERATOR -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+      <map code="0xfffd" name="uniFFFD"/><!-- REPLACEMENT CHARACTER -->
     </cmap_format_4>
   </cmap>
 
@@ -5334,10 +5374,10 @@
         <pt x="100" y="0" on="1"/>
       </contour>
       <contour>
-        <pt x="270" y="170" on="1"/>
-        <pt x="794" y="170" on="1"/>
-        <pt x="794" y="1230" on="1"/>
-        <pt x="270" y="1230" on="1"/>
+        <pt x="250" y="150" on="1"/>
+        <pt x="814" y="150" on="1"/>
+        <pt x="814" y="1250" on="1"/>
+        <pt x="250" y="1250" on="1"/>
       </contour>
       <instructions>
         <assembly>
@@ -7890,14 +7930,15 @@
         <pt x="890" y="1606" on="0"/>
         <pt x="735" y="1491" on="0"/>
         <pt x="635" y="1491" on="1"/>
+        <pt x="633" y="1491" on="0"/>
         <pt x="632" y="1491" on="1"/>
-        <pt x="574" y="1491" on="0"/>
+        <pt x="573" y="1491" on="0"/>
         <pt x="464" y="1539" on="0"/>
         <pt x="423" y="1578" on="1"/>
-        <pt x="383" y="1614" on="0"/>
+        <pt x="384" y="1614" on="0"/>
         <pt x="333" y="1614" on="1"/>
         <pt x="295" y="1614" on="0"/>
-        <pt x="230" y="1571" on="0"/>
+        <pt x="229" y="1571" on="0"/>
         <pt x="216" y="1530" on="1"/>
         <pt x="50" y="1585" on="1"/>
         <pt x="80" y="1674" on="0"/>
@@ -7926,9 +7967,9 @@
       <instructions>
         <assembly>
           NPUSHB[ ]	/* 56 values pushed */
-          23 1 3 2 13 12 2 0 1 29 24 2 5 4 3 76 0 2 0 1 0 2 1 105 0
+          24 1 3 2 14 13 2 0 1 30 25 2 5 4 3 76 0 2 0 1 0 2 1 105 0
           3 0 0 4 3 0 105 7 1 4 4 17 77 6 1 5 5 18 5 78 17 18 17 20 34
-          37 35 50 8 7 30
+          37 35 66 8 7 30
           CALL[ ]	/* CallFunction */
         </assembly>
       </instructions>
@@ -10597,6 +10638,92 @@
       </instructions>
     </TTGlyph>
 
+    <TTGlyph name="arrowdown" xMin="50" yMin="210" xMax="891" yMax="1260">
+      <contour>
+        <pt x="360" y="615" on="1"/>
+        <pt x="360" y="1260" on="1"/>
+        <pt x="580" y="1260" on="1"/>
+        <pt x="580" y="615" on="1"/>
+        <pt x="735" y="786" on="1"/>
+        <pt x="891" y="631" on="1"/>
+        <pt x="470" y="210" on="1"/>
+        <pt x="50" y="631" on="1"/>
+        <pt x="205" y="786" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 18 values pushed */
+          8 7 6 5 4 3 0 7 0 73 0 0 0 118 17 1 6 23
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="arrowleft" xMin="50" yMin="280" xMax="1100" yMax="1121">
+      <contour>
+        <pt x="455" y="590" on="1"/>
+        <pt x="626" y="435" on="1"/>
+        <pt x="471" y="280" on="1"/>
+        <pt x="50" y="700" on="1"/>
+        <pt x="471" y="1121" on="1"/>
+        <pt x="626" y="965" on="1"/>
+        <pt x="455" y="810" on="1"/>
+        <pt x="1100" y="810" on="1"/>
+        <pt x="1100" y="590" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 43 values pushed */
+          3 1 1 0 1 76 5 4 2 0 74 2 1 2 1 73 0 0 1 1 0 87 0 0 0
+          1 95 2 1 1 0 1 79 0 0 0 8 0 8 22 3 6 23
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="arrowright" xMin="50" yMin="280" xMax="1100" yMax="1121">
+      <contour>
+        <pt x="695" y="590" on="1"/>
+        <pt x="50" y="590" on="1"/>
+        <pt x="50" y="810" on="1"/>
+        <pt x="695" y="810" on="1"/>
+        <pt x="524" y="965" on="1"/>
+        <pt x="679" y="1121" on="1"/>
+        <pt x="1100" y="700" on="1"/>
+        <pt x="679" y="280" on="1"/>
+        <pt x="524" y="435" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 37 values pushed */
+          6 1 0 1 1 76 5 4 2 1 74 8 7 2 0 73 0 1 0 0 1 87 0 1 1
+          0 95 0 0 1 0 79 17 16 2 6 24
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="arrowup" xMin="50" yMin="210" xMax="891" yMax="1260">
+      <contour>
+        <pt x="360" y="855" on="1"/>
+        <pt x="205" y="684" on="1"/>
+        <pt x="50" y="839" on="1"/>
+        <pt x="470" y="1260" on="1"/>
+        <pt x="891" y="839" on="1"/>
+        <pt x="735" y="684" on="1"/>
+        <pt x="580" y="855" on="1"/>
+        <pt x="580" y="210" on="1"/>
+        <pt x="360" y="210" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 18 values pushed */
+          6 5 4 3 2 1 0 7 0 74 0 0 0 118 23 1 6 23
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
     <TTGlyph name="asciicircum" xMin="100" yMin="950" xMax="835" yMax="1450">
       <contour>
         <pt x="350" y="1450" on="1"/>
@@ -10628,14 +10755,15 @@
         <pt x="940" y="666" on="0"/>
         <pt x="785" y="551" on="0"/>
         <pt x="685" y="551" on="1"/>
+        <pt x="683" y="551" on="0"/>
         <pt x="682" y="551" on="1"/>
-        <pt x="624" y="551" on="0"/>
+        <pt x="623" y="551" on="0"/>
         <pt x="514" y="599" on="0"/>
         <pt x="473" y="638" on="1"/>
-        <pt x="433" y="674" on="0"/>
+        <pt x="434" y="674" on="0"/>
         <pt x="383" y="674" on="1"/>
         <pt x="345" y="674" on="0"/>
-        <pt x="280" y="631" on="0"/>
+        <pt x="279" y="631" on="0"/>
         <pt x="266" y="590" on="1"/>
         <pt x="100" y="645" on="1"/>
         <pt x="130" y="734" on="0"/>
@@ -10655,8 +10783,8 @@
           6 100
           WCVTP[ ]	/* WriteCVTInPixels */
           NPUSHB[ ]	/* 42 values pushed */
-          23 1 3 2 13 12 2 0 1 2 76 0 3 1 0 3 89 0 2 0 1 0 2 1 105
-          0 3 3 0 97 0 0 3 0 81 34 37 35 50 4 7 26
+          24 1 3 2 14 13 2 0 1 2 76 0 3 1 0 3 89 0 2 0 1 0 2 1 105
+          0 3 3 0 97 0 0 3 0 81 34 37 35 66 4 7 26
           CALL[ ]	/* CallFunction */
           PUSHB[ ]	/* 2 values pushed */
           6 0
@@ -14881,14 +15009,15 @@
         <pt x="890" y="1606" on="0"/>
         <pt x="735" y="1491" on="0"/>
         <pt x="635" y="1491" on="1"/>
+        <pt x="633" y="1491" on="0"/>
         <pt x="632" y="1491" on="1"/>
-        <pt x="574" y="1491" on="0"/>
+        <pt x="573" y="1491" on="0"/>
         <pt x="464" y="1539" on="0"/>
         <pt x="423" y="1578" on="1"/>
-        <pt x="383" y="1614" on="0"/>
+        <pt x="384" y="1614" on="0"/>
         <pt x="333" y="1614" on="1"/>
         <pt x="295" y="1614" on="0"/>
-        <pt x="230" y="1571" on="0"/>
+        <pt x="229" y="1571" on="0"/>
         <pt x="216" y="1530" on="1"/>
         <pt x="50" y="1585" on="1"/>
         <pt x="80" y="1674" on="0"/>
@@ -14917,9 +15046,9 @@
       <instructions>
         <assembly>
           NPUSHB[ ]	/* 56 values pushed */
-          23 1 3 2 13 12 2 0 1 29 24 2 5 4 3 76 0 2 0 1 0 2 1 105 0
+          24 1 3 2 14 13 2 0 1 30 25 2 5 4 3 76 0 2 0 1 0 2 1 105 0
           3 0 0 4 3 0 105 7 1 4 4 17 77 6 1 5 5 18 5 78 17 18 17 20 34
-          37 35 50 8 7 30
+          37 35 66 8 7 30
           CALL[ ]	/* CallFunction */
         </assembly>
       </instructions>
@@ -17603,10 +17732,10 @@
         <pt x="320" y="1126" on="1"/>
         <pt x="320" y="1046" on="1"/>
         <pt x="748" y="889" on="1"/>
-        <pt x="786" y="881" on="0"/>
-        <pt x="830" y="822" on="0"/>
+        <pt x="785" y="881" on="0"/>
+        <pt x="830" y="823" on="0"/>
         <pt x="830" y="787" on="1"/>
-        <pt x="830" y="767" on="0"/>
+        <pt x="830" y="768" on="0"/>
         <pt x="823" y="749" on="1"/>
         <pt x="743" y="529" on="1"/>
         <pt x="783" y="510" on="0"/>
@@ -17633,9 +17762,9 @@
         <pt x="610" y="353" on="1"/>
         <pt x="182" y="510" on="1"/>
         <pt x="145" y="518" on="0"/>
-        <pt x="100" y="577" on="0"/>
+        <pt x="100" y="576" on="0"/>
         <pt x="100" y="612" on="1"/>
-        <pt x="100" y="632" on="0"/>
+        <pt x="100" y="631" on="0"/>
         <pt x="107" y="650" on="1"/>
         <pt x="187" y="870" on="1"/>
         <pt x="147" y="890" on="0"/>
@@ -17651,22 +17780,22 @@
       </contour>
       <contour>
         <pt x="572" y="672" on="1"/>
-        <pt x="574" y="682" on="0"/>
+        <pt x="574" y="679" on="0"/>
         <pt x="574" y="687" on="1"/>
-        <pt x="574" y="726" on="0"/>
+        <pt x="574" y="727" on="0"/>
         <pt x="538" y="744" on="1"/>
         <pt x="385" y="799" on="1"/>
         <pt x="358" y="727" on="1"/>
-        <pt x="356" y="717" on="0"/>
+        <pt x="356" y="720" on="0"/>
         <pt x="356" y="712" on="1"/>
-        <pt x="356" y="673" on="0"/>
+        <pt x="356" y="672" on="0"/>
         <pt x="392" y="655" on="1"/>
         <pt x="545" y="600" on="1"/>
       </contour>
       <instructions>
         <assembly>
-          NPUSHB[ ]	/* 19 values pushed */
-          11 1 0 1 69 64 63 58 47 18 6 3 0 40 1 4 3 3 76
+          NPUSHB[ ]	/* 21 values pushed */
+          11 1 0 1 69 64 63 58 47 44 18 15 8 3 0 40 1 4 3 3 76
           MPPEM[ ]	/* MeasurePixelPerEm */
           PUSHB[ ]	/* 1 value pushed */
           16
@@ -18349,6 +18478,43 @@
           PUSHB[ ]	/* 2 values pushed */
           6 0
           WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="trademark" xMin="10" yMin="900" xMax="720" yMax="1400">
+      <contour>
+        <pt x="105" y="900" on="1"/>
+        <pt x="105" y="1314" on="1"/>
+        <pt x="10" y="1314" on="1"/>
+        <pt x="10" y="1400" on="1"/>
+        <pt x="290" y="1400" on="1"/>
+        <pt x="290" y="1314" on="1"/>
+        <pt x="195" y="1314" on="1"/>
+        <pt x="195" y="900" on="1"/>
+      </contour>
+      <contour>
+        <pt x="591" y="1400" on="1"/>
+        <pt x="720" y="1400" on="1"/>
+        <pt x="720" y="900" on="1"/>
+        <pt x="641" y="900" on="1"/>
+        <pt x="641" y="1275" on="1"/>
+        <pt x="552" y="900" on="1"/>
+        <pt x="488" y="900" on="1"/>
+        <pt x="399" y="1275" on="1"/>
+        <pt x="399" y="900" on="1"/>
+        <pt x="320" y="900" on="1"/>
+        <pt x="320" y="1400" on="1"/>
+        <pt x="449" y="1400" on="1"/>
+        <pt x="520" y="1072" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 57 values pushed */
+          20 15 12 3 3 0 1 76 8 4 2 1 2 1 0 3 1 0 103 8 4 2 1 1 3
+          95 7 6 5 9 4 3 1 3 79 0 0 19 18 17 16 14 13 11 10 9 8 0 7 0
+          7 17 17 17 10 6 25
+          CALL[ ]	/* CallFunction */
         </assembly>
       </instructions>
     </TTGlyph>
@@ -19765,6 +19931,107 @@
           NPUSHB[ ]	/* 40 values pushed */
           2 4 2 1 0 0 1 87 2 4 2 1 1 0 95 5 3 2 0 1 0 79 4 4 0
           0 4 7 4 7 6 5 0 3 0 3 17 6 7 23
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni02BB" xMin="100" yMin="1020" xMax="330" yMax="1450">
+      <contour>
+        <pt x="310" y="1450" on="1"/>
+        <pt x="230" y="1250" on="1"/>
+        <pt x="330" y="1250" on="1"/>
+        <pt x="330" y="1020" on="1"/>
+        <pt x="100" y="1020" on="1"/>
+        <pt x="100" y="1250" on="1"/>
+        <pt x="210" y="1450" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          PUSHB[ ]	/* 5 values pushed */
+          5 1 0 1 75
+          MPPEM[ ]	/* MeasurePixelPerEm */
+          PUSHB[ ]	/* 1 value pushed */
+          12
+          LT[ ]	/* LessThan */
+          IF[ ]	/* If */
+            NPUSHB[ ]	/* 23 values pushed */
+            3 1 2 0 0 2 112 0 0 1 1 0 87 0 0 0 1 96 0 1 0 1 80
+          ELSE[ ]	/* Else */
+            NPUSHB[ ]	/* 22 values pushed */
+            3 1 2 0 2 133 0 0 1 1 0 87 0 0 0 1 96 0 1 0 1 80
+          EIF[ ]	/* EndIf */
+          NPUSHB[ ]	/* 11 values pushed */
+          0 0 0 6 0 6 17 17 4 7 24
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni02BC" xMin="100" yMin="990" xMax="330" yMax="1450">
+      <contour>
+        <pt x="270" y="990" on="1"/>
+        <pt x="160" y="990" on="1"/>
+        <pt x="100" y="1220" on="1"/>
+        <pt x="100" y="1450" on="1"/>
+        <pt x="330" y="1450" on="1"/>
+        <pt x="330" y="1220" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          NPUSHB[ ]	/* 28 values pushed */
+          5 2 2 0 1 1 76 0 1 0 0 1 87 0 1 1 0 95 0 0 1 0 79 18 16
+          2 7 24
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni02BD" xMin="100" yMin="1020" xMax="330" yMax="1450">
+      <contour>
+        <pt x="310" y="1020" on="1"/>
+        <pt x="210" y="1020" on="1"/>
+        <pt x="100" y="1220" on="1"/>
+        <pt x="100" y="1450" on="1"/>
+        <pt x="330" y="1450" on="1"/>
+        <pt x="330" y="1220" on="1"/>
+        <pt x="230" y="1220" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          PUSHB[ ]	/* 5 values pushed */
+          2 1 2 1 75
+          MPPEM[ ]	/* MeasurePixelPerEm */
+          PUSHB[ ]	/* 1 value pushed */
+          12
+          LT[ ]	/* LessThan */
+          IF[ ]	/* If */
+            NPUSHB[ ]	/* 22 values pushed */
+            0 0 2 2 0 113 0 1 2 2 1 87 0 1 1 2 95 0 2 1 2 79
+          ELSE[ ]	/* Else */
+            NPUSHB[ ]	/* 21 values pushed */
+            0 0 2 0 134 0 1 2 2 1 87 0 1 1 2 95 0 2 1 2 79
+          EIF[ ]	/* EndIf */
+          PUSHB[ ]	/* 6 values pushed */
+          17 18 16 3 7 25
           CALL[ ]	/* CallFunction */
           PUSHB[ ]	/* 2 values pushed */
           6 0
@@ -21702,14 +21969,15 @@
         <pt x="940" y="666" on="0"/>
         <pt x="785" y="551" on="0"/>
         <pt x="685" y="551" on="1"/>
+        <pt x="683" y="551" on="0"/>
         <pt x="682" y="551" on="1"/>
-        <pt x="624" y="551" on="0"/>
+        <pt x="623" y="551" on="0"/>
         <pt x="514" y="599" on="0"/>
         <pt x="473" y="638" on="1"/>
-        <pt x="433" y="674" on="0"/>
+        <pt x="434" y="674" on="0"/>
         <pt x="383" y="674" on="1"/>
         <pt x="345" y="674" on="0"/>
-        <pt x="280" y="631" on="0"/>
+        <pt x="279" y="631" on="0"/>
         <pt x="266" y="590" on="1"/>
         <pt x="100" y="645" on="1"/>
         <pt x="130" y="734" on="0"/>
@@ -21726,8 +21994,8 @@
       <instructions>
         <assembly>
           NPUSHB[ ]	/* 42 values pushed */
-          23 1 3 2 13 12 2 0 1 2 76 0 3 1 0 3 89 0 2 0 1 0 2 1 105
-          0 3 3 0 97 0 0 3 0 81 34 37 35 50 4 7 26
+          24 1 3 2 14 13 2 0 1 2 76 0 3 1 0 3 89 0 2 0 1 0 2 1 105
+          0 3 3 0 97 0 0 3 0 81 34 37 35 66 4 7 26
           CALL[ ]	/* CallFunction */
         </assembly>
       </instructions>
@@ -21810,16 +22078,15 @@
     <TTGlyph name="uni2055" xMin="100" yMin="240" xMax="1020" yMax="1160">
       <contour>
         <pt x="1009" y="740" on="1"/>
-        <pt x="1020" y="722" on="0"/>
+        <pt x="1020" y="721" on="0"/>
         <pt x="1020" y="700" on="1"/>
         <pt x="1020" y="669" on="0"/>
         <pt x="975" y="620" on="0"/>
         <pt x="940" y="620" on="1"/>
         <pt x="940" y="620" on="0"/>
-        <pt x="895" y="618" on="0"/>
+        <pt x="896" y="618" on="0"/>
         <pt x="869" y="618" on="1"/>
-        <pt x="856" y="618" on="0"/>
-        <pt x="830" y="619" on="0"/>
+        <pt x="838" y="618" on="0"/>
         <pt x="820" y="620" on="1"/>
         <pt x="800" y="622" on="0"/>
         <pt x="735" y="635" on="0"/>
@@ -21830,12 +22097,12 @@
         <pt x="824" y="554" on="0"/>
         <pt x="869" y="503" on="0"/>
         <pt x="885" y="488" on="1"/>
-        <pt x="909" y="466" on="0"/>
+        <pt x="909" y="465" on="0"/>
         <pt x="909" y="432" on="1"/>
         <pt x="909" y="421" on="0"/>
         <pt x="906" y="410" on="1"/>
-        <pt x="899" y="382" on="0"/>
-        <pt x="855" y="351" on="0"/>
+        <pt x="898" y="382" on="0"/>
+        <pt x="854" y="351" on="0"/>
         <pt x="829" y="351" on="1"/>
         <pt x="796" y="351" on="0"/>
         <pt x="772" y="375" on="1"/>
@@ -21849,24 +22116,22 @@
         <pt x="626" y="525" on="0"/>
         <pt x="638" y="460" on="0"/>
         <pt x="640" y="440" on="1"/>
-        <pt x="641" y="430" on="0"/>
-        <pt x="642" y="409" on="0"/>
+        <pt x="642" y="422" on="0"/>
         <pt x="642" y="398" on="1"/>
         <pt x="642" y="376" on="0"/>
         <pt x="640" y="334" on="0"/>
         <pt x="640" y="320" on="1"/>
         <pt x="640" y="273" on="0"/>
         <pt x="600" y="251" on="1"/>
-        <pt x="582" y="240" on="0"/>
+        <pt x="581" y="240" on="0"/>
         <pt x="560" y="240" on="1"/>
         <pt x="529" y="240" on="0"/>
         <pt x="480" y="285" on="0"/>
         <pt x="480" y="320" on="1"/>
         <pt x="480" y="320" on="0"/>
-        <pt x="478" y="365" on="0"/>
+        <pt x="478" y="364" on="0"/>
         <pt x="478" y="391" on="1"/>
-        <pt x="478" y="405" on="0"/>
-        <pt x="479" y="430" on="0"/>
+        <pt x="478" y="422" on="0"/>
         <pt x="480" y="440" on="1"/>
         <pt x="482" y="460" on="0"/>
         <pt x="495" y="525" on="0"/>
@@ -21879,7 +22144,7 @@
         <pt x="348" y="375" on="1"/>
         <pt x="326" y="351" on="0"/>
         <pt x="292" y="351" on="1"/>
-        <pt x="282" y="351" on="0"/>
+        <pt x="281" y="351" on="0"/>
         <pt x="271" y="354" on="1"/>
         <pt x="243" y="362" on="0"/>
         <pt x="211" y="406" on="0"/>
@@ -21896,24 +22161,22 @@
         <pt x="385" y="635" on="0"/>
         <pt x="321" y="622" on="0"/>
         <pt x="300" y="620" on="1"/>
-        <pt x="290" y="619" on="0"/>
-        <pt x="268" y="618" on="0"/>
+        <pt x="282" y="618" on="0"/>
         <pt x="257" y="618" on="1"/>
         <pt x="235" y="618" on="0"/>
         <pt x="194" y="620" on="0"/>
         <pt x="180" y="620" on="1"/>
         <pt x="133" y="620" on="0"/>
         <pt x="111" y="660" on="1"/>
-        <pt x="100" y="680" on="0"/>
+        <pt x="100" y="679" on="0"/>
         <pt x="100" y="700" on="1"/>
         <pt x="100" y="731" on="0"/>
-        <pt x="146" y="780" on="0"/>
+        <pt x="145" y="780" on="0"/>
         <pt x="180" y="780" on="1"/>
         <pt x="180" y="780" on="0"/>
-        <pt x="225" y="782" on="0"/>
+        <pt x="224" y="782" on="0"/>
         <pt x="251" y="782" on="1"/>
-        <pt x="265" y="782" on="0"/>
-        <pt x="290" y="781" on="0"/>
+        <pt x="282" y="782" on="0"/>
         <pt x="300" y="780" on="1"/>
         <pt x="321" y="778" on="0"/>
         <pt x="385" y="765" on="0"/>
@@ -21926,9 +22189,9 @@
         <pt x="235" y="912" on="1"/>
         <pt x="212" y="935" on="0"/>
         <pt x="212" y="969" on="1"/>
-        <pt x="212" y="983" on="0"/>
+        <pt x="212" y="979" on="0"/>
         <pt x="214" y="989" on="1"/>
-        <pt x="222" y="1018" on="0"/>
+        <pt x="222" y="1017" on="0"/>
         <pt x="266" y="1049" on="0"/>
         <pt x="291" y="1049" on="1"/>
         <pt x="324" y="1049" on="0"/>
@@ -21943,24 +22206,22 @@
         <pt x="495" y="875" on="0"/>
         <pt x="482" y="939" on="0"/>
         <pt x="480" y="960" on="1"/>
-        <pt x="479" y="970" on="0"/>
-        <pt x="478" y="992" on="0"/>
+        <pt x="478" y="978" on="0"/>
         <pt x="478" y="1003" on="1"/>
         <pt x="478" y="1025" on="0"/>
         <pt x="480" y="1066" on="0"/>
         <pt x="480" y="1080" on="1"/>
         <pt x="480" y="1127" on="0"/>
         <pt x="520" y="1149" on="1"/>
-        <pt x="540" y="1160" on="0"/>
+        <pt x="539" y="1160" on="0"/>
         <pt x="560" y="1160" on="1"/>
         <pt x="591" y="1160" on="0"/>
         <pt x="640" y="1115" on="0"/>
         <pt x="640" y="1080" on="1"/>
         <pt x="640" y="1080" on="0"/>
-        <pt x="642" y="1035" on="0"/>
+        <pt x="642" y="1036" on="0"/>
         <pt x="642" y="1009" on="1"/>
-        <pt x="642" y="996" on="0"/>
-        <pt x="641" y="970" on="0"/>
+        <pt x="642" y="978" on="0"/>
         <pt x="640" y="960" on="1"/>
         <pt x="638" y="939" on="0"/>
         <pt x="626" y="875" on="0"/>
@@ -21975,8 +22236,8 @@
         <pt x="829" y="1049" on="1"/>
         <pt x="840" y="1049" on="0"/>
         <pt x="850" y="1046" on="1"/>
-        <pt x="878" y="1039" on="0"/>
-        <pt x="909" y="995" on="0"/>
+        <pt x="878" y="1038" on="0"/>
+        <pt x="909" y="994" on="0"/>
         <pt x="909" y="969" on="1"/>
         <pt x="909" y="936" on="0"/>
         <pt x="885" y="912" on="1"/>
@@ -21990,18 +22251,17 @@
         <pt x="735" y="765" on="0"/>
         <pt x="800" y="778" on="0"/>
         <pt x="820" y="780" on="1"/>
-        <pt x="830" y="781" on="0"/>
-        <pt x="856" y="782" on="0"/>
+        <pt x="838" y="782" on="0"/>
         <pt x="869" y="782" on="1"/>
-        <pt x="895" y="782" on="0"/>
+        <pt x="896" y="782" on="0"/>
         <pt x="940" y="780" on="0"/>
         <pt x="940" y="780" on="1"/>
         <pt x="987" y="780" on="0"/>
       </contour>
       <instructions>
         <assembly>
-          NPUSHB[ ]	/* 23 values pushed */
-          155 133 130 116 4 5 6 177 108 83 14 4 0 5 61 39 36 22 4 1 0 3 76
+          NPUSHB[ ]	/* 21 values pushed */
+          148 125 111 3 5 6 170 103 80 13 4 0 5 58 35 21 3 1 0 3 76
           MPPEM[ ]	/* MeasurePixelPerEm */
           PUSHB[ ]	/* 1 value pushed */
           10
@@ -22016,7 +22276,7 @@
             1 5 4 1 0 1 5 0 106 0 7 7 2 97 0 2 7 2 81
           EIF[ ]	/* EndIf */
           NPUSHB[ ]	/* 22 values pushed */
-          187 180 163 162 144 142 122 120 104 98 93 86 69 68 50 48 28 26 100 10 7 23
+          179 174 156 155 138 136 117 115 99 94 89 84 66 65 48 46 27 25 84 10 7 23
           CALL[ ]	/* CallFunction */
         </assembly>
       </instructions>
@@ -22378,6 +22638,79 @@
         <assembly>
           NPUSHB[ ]	/* 20 values pushed */
           0 0 1 0 133 2 1 1 1 118 0 0 0 3 0 3 17 3 6 23
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFEFF"/><!-- contains no outline data -->
+
+    <TTGlyph name="uniFFFD" xMin="100" yMin="85" xMax="840" yMax="1315">
+      <contour>
+        <pt x="840" y="1170" on="1"/>
+        <pt x="840" y="230" on="1"/>
+        <pt x="840" y="170" on="0"/>
+        <pt x="755" y="85" on="0"/>
+        <pt x="695" y="85" on="1"/>
+        <pt x="245" y="85" on="1"/>
+        <pt x="185" y="85" on="0"/>
+        <pt x="100" y="170" on="0"/>
+        <pt x="100" y="230" on="1"/>
+        <pt x="100" y="1170" on="1"/>
+        <pt x="100" y="1230" on="0"/>
+        <pt x="185" y="1315" on="0"/>
+        <pt x="245" y="1315" on="1"/>
+        <pt x="695" y="1315" on="1"/>
+        <pt x="755" y="1315" on="0"/>
+        <pt x="840" y="1230" on="0"/>
+      </contour>
+      <contour>
+        <pt x="338" y="1196" on="1"/>
+        <pt x="292" y="1196" on="0"/>
+        <pt x="225" y="1130" on="0"/>
+        <pt x="225" y="1083" on="1"/>
+        <pt x="225" y="914" on="1"/>
+        <pt x="387" y="914" on="1"/>
+        <pt x="387" y="1003" on="1"/>
+        <pt x="387" y="1022" on="0"/>
+        <pt x="413" y="1048" on="0"/>
+        <pt x="431" y="1048" on="1"/>
+        <pt x="526" y="1048" on="1"/>
+        <pt x="544" y="1048" on="0"/>
+        <pt x="569" y="1022" on="0"/>
+        <pt x="569" y="1003" on="1"/>
+        <pt x="569" y="948" on="1"/>
+        <pt x="569" y="897" on="0"/>
+        <pt x="508" y="811" on="0"/>
+        <pt x="427" y="720" on="0"/>
+        <pt x="366" y="605" on="0"/>
+        <pt x="366" y="526" on="1"/>
+        <pt x="366" y="463" on="1"/>
+        <pt x="524" y="463" on="1"/>
+        <pt x="524" y="534" on="1"/>
+        <pt x="524" y="603" on="0"/>
+        <pt x="585" y="698" on="0"/>
+        <pt x="664" y="780" on="0"/>
+        <pt x="725" y="877" on="0"/>
+        <pt x="725" y="948" on="1"/>
+        <pt x="725" y="1083" on="1"/>
+        <pt x="725" y="1130" on="0"/>
+        <pt x="659" y="1196" on="0"/>
+        <pt x="612" y="1196" on="1"/>
+      </contour>
+      <contour>
+        <pt x="366" y="370" on="1"/>
+        <pt x="366" y="208" on="1"/>
+        <pt x="528" y="208" on="1"/>
+        <pt x="528" y="370" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 80 values pushed */
+          22 1 3 4 1 76 0 4 2 3 2 4 3 128 0 3 5 2 3 5 126 0 1 8 1
+          2 4 1 2 103 0 5 9 1 7 6 5 7 103 0 6 0 0 6 87 0 6 6 0 95
+          0 0 6 0 79 48 48 17 16 48 51 48 51 50 49 37 36 26 24 21 20 16 47 17 46
+          53 51 10 6 24
           CALL[ ]	/* CallFunction */
         </assembly>
       </instructions>
@@ -22990,28 +23323,28 @@
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      CaliforniaGothic-Regular;2.1;LaG;
+      CaliforniaGothic-Regular;2.2;LaG;
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
       California Gothic Regular
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 2.1
+      Version 2.2;
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       CaliforniaGothic-Regular
-    </namerecord>
-    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
-      Matthew LaGrandeur
     </namerecord>
     <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
       https://www.mattlag.com
     </namerecord>
     <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
-      This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.
     </namerecord>
     <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
       http://scripts.sil.org/OFL
+    </namerecord>
+    <namerecord nameID="17" platformID="3" platEncID="1" langID="0x409">
+      Regular
     </namerecord>
   </name>
 
@@ -23088,6 +23421,10 @@
       <psName name="acutecomb"/>
       <psName name="amacron"/>
       <psName name="aogonek"/>
+      <psName name="arrowdown"/>
+      <psName name="arrowleft"/>
+      <psName name="arrowright"/>
+      <psName name="arrowup"/>
       <psName name="asteriskmath"/>
       <psName name="ccircumflex"/>
       <psName name="cdotaccent"/>
@@ -23157,6 +23494,9 @@
       <psName name="uni0163"/>
       <psName name="uni02B9"/>
       <psName name="uni02BA"/>
+      <psName name="uni02BB"/>
+      <psName name="uni02BC"/>
+      <psName name="uni02BD"/>
       <psName name="uni02CA"/>
       <psName name="uni02CB"/>
       <psName name="uni0302"/>
@@ -23226,6 +23566,8 @@
       <psName name="uni205E"/>
       <psName name="uni2074"/>
       <psName name="uni2215"/>
+      <psName name="uniFEFF"/>
+      <psName name="uniFFFD"/>
       <psName name="uogonek"/>
       <psName name="uring"/>
       <psName name="utilde"/>
@@ -23370,6 +23712,10 @@
       <ClassDef glyph="ampersand" class="1"/>
       <ClassDef glyph="aogonek" class="1"/>
       <ClassDef glyph="aring" class="1"/>
+      <ClassDef glyph="arrowdown" class="1"/>
+      <ClassDef glyph="arrowleft" class="1"/>
+      <ClassDef glyph="arrowright" class="1"/>
+      <ClassDef glyph="arrowup" class="1"/>
       <ClassDef glyph="asciicircum" class="1"/>
       <ClassDef glyph="asciitilde" class="1"/>
       <ClassDef glyph="asterisk" class="1"/>
@@ -23551,6 +23897,7 @@
       <ClassDef glyph="threequarters" class="1"/>
       <ClassDef glyph="tilde" class="1"/>
       <ClassDef glyph="tildecomb" class="1"/>
+      <ClassDef glyph="trademark" class="1"/>
       <ClassDef glyph="two" class="1"/>
       <ClassDef glyph="twodotenleader" class="1"/>
       <ClassDef glyph="u" class="1"/>
@@ -23581,6 +23928,9 @@
       <ClassDef glyph="uni0163" class="1"/>
       <ClassDef glyph="uni02B9" class="1"/>
       <ClassDef glyph="uni02BA" class="1"/>
+      <ClassDef glyph="uni02BB" class="1"/>
+      <ClassDef glyph="uni02BC" class="1"/>
+      <ClassDef glyph="uni02BD" class="1"/>
       <ClassDef glyph="uni02CA" class="1"/>
       <ClassDef glyph="uni02CB" class="1"/>
       <ClassDef glyph="uni0302" class="1"/>
@@ -23650,6 +24000,8 @@
       <ClassDef glyph="uni205E" class="1"/>
       <ClassDef glyph="uni2074" class="1"/>
       <ClassDef glyph="uni2215" class="1"/>
+      <ClassDef glyph="uniFEFF" class="1"/>
+      <ClassDef glyph="uniFFFD" class="1"/>
       <ClassDef glyph="uogonek" class="1"/>
       <ClassDef glyph="uring" class="1"/>
       <ClassDef glyph="utilde" class="1"/>
@@ -28776,8 +29128,10 @@
       </Lookup>
     </LookupList>
   </GPOS>
+
   <DSIG>
     <!-- note that the Digital Signature will be invalid after recompilation! -->
     <tableHeader flag="0x0" numSigs="0" version="1"/>
   </DSIG>
+
 </ttFont>

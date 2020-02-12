@@ -2,9 +2,4 @@
 <glyph name="uni2009" format="1">
   <advance width="250"/>
   <unicode hex="2009"/>
-  <outline>
-    <contour>
-      <point x="0" y="0" type="move" smooth="yes"/>
-    </contour>
-  </outline>
 </glyph>

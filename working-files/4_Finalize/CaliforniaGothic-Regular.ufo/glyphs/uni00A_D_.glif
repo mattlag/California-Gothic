@@ -2,9 +2,4 @@
 <glyph name="uni00AD" format="1">
   <advance width="1"/>
   <unicode hex="00AD"/>
-  <outline>
-    <contour>
-      <point x="0" y="0" type="move" smooth="yes"/>
-    </contour>
-  </outline>
 </glyph>

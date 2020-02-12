@@ -1,72 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name=".notdef" format="1">
   <advance width="1064"/>
-  <unicode hex="0000"/>
   <outline>
     <contour>
-      <point x="100" y="1400" type="curve"/>
-      <point x="100" y="1400"/>
-      <point x="964" y="1400"/>
-      <point x="964" y="1400" type="curve"/>
-      <point x="964" y="1400"/>
-      <point x="964" y="0"/>
-      <point x="964" y="0" type="curve"/>
-      <point x="964" y="0"/>
-      <point x="100" y="0"/>
-      <point x="100" y="0" type="curve"/>
-      <point x="100" y="0"/>
-      <point x="100" y="1400"/>
+      <point x="100" y="1400" type="line"/>
+      <point x="964" y="1400" type="line"/>
+      <point x="964" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="270" y="170" type="curve"/>
-      <point x="270" y="170"/>
-      <point x="794" y="170"/>
-      <point x="794" y="170" type="curve"/>
-      <point x="794" y="170"/>
-      <point x="794" y="1230"/>
-      <point x="794" y="1230" type="curve"/>
-      <point x="794" y="1230"/>
-      <point x="270" y="1230"/>
-      <point x="270" y="1230" type="curve"/>
-      <point x="270" y="1230"/>
-      <point x="270" y="170"/>
+      <point x="250" y="150" type="line"/>
+      <point x="814" y="150" type="line"/>
+      <point x="814" y="1250" type="line"/>
+      <point x="250" y="1250" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>170</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1230</integer>
-            <key>width</key>
-            <integer>170</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>100</integer>
-            <key>width</key>
-            <integer>170</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>794</integer>
-            <key>width</key>
-            <integer>170</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
